@@ -1,0 +1,1337 @@
+ID,Name_First,GmpDate_First,GmpDate_Last,MUAC_First,MUAC_Last,MUAC_Change,MUAC_Change_Percent,Condition_First,Condition_Last,Condition_Transition,Cluster_Name_First,Cluster_Name_Last,Risk_Transition,Trend
+581415010001,ff,2017-12-17,2017-12-28,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+581415010002,gg,2017-12-17,2017-12-28,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+581415010004,hskkd,2017-12-18,2017-12-28,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+581415010035,kffhj,2017-12-28,2018-07-19,14.0,15.4,1.4000000000000004,10.0,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+581494010009,abc,2017-12-21,2017-12-27,11.5,15.0,3.5,30.43,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+581494010014,Dips das,2017-07-27,2017-12-27,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+581494080009,Mahr,2017-11-20,2017-12-22,13.1,12.0,-1.0999999999999996,-8.4,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+581494080022,Fahima,2017-12-20,2017-12-21,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+581494080103,khadija begum,2017-12-24,2018-08-20,13.7,13.7,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+581494080247,shahim begum,2017-12-06,2017-12-24,14.5,14.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+581494080248,jeshan ahamed,2017-12-06,2017-12-24,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+581494080250,urme,2017-12-06,2017-12-24,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+581494080256,Abdulla almamun,2017-12-20,2017-12-24,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+581494080257,s,2017-12-21,2018-01-21,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+581494080298,Sohan,2017-12-20,2017-12-21,12.0,13.2,1.1999999999999993,10.0,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+581494080400,proma biswas,2017-12-20,2018-10-15,13.0,14.3,1.3000000000000007,10.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+581494080402,chadni biswas,2017-12-11,2017-12-24,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+583547010005,asdf,2017-12-17,2017-12-28,12.0,10.0,-2.0,-16.67,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+583547010006,joy,2017-12-27,2017-12-28,10.0,12.0,2.0,20.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+583547010015,mina,2017-07-19,2017-12-28,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547010055,Rita,2017-12-27,2017-12-28,6.3,10.0,3.7,58.73,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+583547020014,Aysha,2017-12-27,2017-12-28,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547020021,juma,2017-12-27,2017-12-28,13.5,12.0,-1.5,-11.11,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547090009,Sadiya,2017-12-28,2018-06-18,14.5,14.0,-0.5,-3.45,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547090010,hussain,2017-12-27,2018-06-18,12.5,13.7,1.1999999999999993,9.6,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547090030,mahi,2017-12-27,2018-06-18,12.5,17.2,4.699999999999999,37.6,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+583547100025,mahi,2017-12-27,2017-12-28,12.25,14.3,2.0500000000000007,16.73,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547100313,Zihad,2017-12-27,2017-12-28,14.3,14.0,-0.3000000000000007,-2.1,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547100319,Sadiya,2017-12-28,2018-02-12,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+583547100347,Humayra,2017-12-28,2018-02-12,13.4,14.5,1.0999999999999996,8.21,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140005,Majharul,2018-01-08,2018-07-09,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+583547140039,Tamim,2018-01-08,2018-05-14,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+583547140048,Farhana,2018-01-08,2018-04-16,13.0,12.5,-0.5,-3.85,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547140049,Mustafijur,2018-01-08,2018-05-14,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140052,damini,2017-12-27,2017-12-28,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547140061,Abeda,2017-08-19,2018-04-16,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140065,Rabbi,2017-08-19,2018-03-17,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140079,Raisa,2017-08-19,2018-05-14,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140095,Shrijon,2018-01-08,2018-04-16,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140103,Oyon,2018-01-08,2018-05-14,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+583547140106,Rahidul,2017-08-19,2018-05-14,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140148,Kaled omor,2018-01-07,2018-04-16,12.5,15.0,2.5,20.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+583547140149,Redhan,2017-12-27,2018-01-08,12.6,13.0,0.40000000000000036,3.17,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+583547140151,Nirob,2018-01-08,2018-04-16,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+585617010001,cf,2017-12-12,2017-12-27,8.0,12.0,4.0,50.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+585617010002,ami,2017-12-12,2017-12-27,6.0,14.0,8.0,133.33,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+585617010005,FATIMA,2017-12-12,2017-12-28,5.0,14.0,9.0,180.0,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+585617010010,fahmi,2017-12-17,2017-12-18,13.5,12.0,-1.5,-11.11,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585617010014,karim,2017-12-18,2017-12-23,12.5,12.0,-0.5,-4.0,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585617040223,monuj,2017-06-18,2017-12-18,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060008,tarin,2017-12-24,2018-07-22,11.6,13.5,1.9000000000000004,16.38,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060014,masuda,2017-12-19,2018-05-20,12.5,13.7,1.1999999999999993,9.6,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060022,sakila,2017-12-19,2018-03-18,12.5,12.6,0.09999999999999964,0.8,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060036,hasan,2017-12-19,2018-05-20,11.5,13.0,1.5,13.04,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060081,mustakin,2018-03-14,2018-10-10,13.8,14.6,0.7999999999999989,5.8,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060083,emran,2017-12-15,2018-07-11,14.5,15.2,0.6999999999999993,4.83,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585617060103,ruhan,2018-03-14,2018-10-10,13.7,14.1,0.40000000000000036,2.92,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585617060198,mahida,2017-12-19,2018-05-20,14.5,13.5,-1.0,-6.9,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585617060203,nafij,2017-12-15,2018-10-10,13.2,15.9,2.700000000000001,20.45,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+585617090001,Ruma,2017-06-06,2017-12-28,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585619010001,asdghh,2017-12-18,2017-12-28,18.0,13.0,-5.0,-27.78,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+585619010024,E,2017-12-28,2018-05-17,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+585619090014,eva,2017-12-27,2017-12-28,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585619120111,Rahim Mia,2017-08-05,2018-03-05,13.4,14.0,0.5999999999999996,4.48,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585619120126,jannatun muntaha,2017-12-28,2018-10-01,13.4,10.3,-3.0999999999999996,-23.13,At Risk,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+585619120222,Salman ahmed,2017-08-05,2018-03-05,13.2,13.9,0.7000000000000011,5.3,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585638010005,sayon,2017-11-25,2018-04-22,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585638020026,nihadmia,2018-01-14,2018-06-10,13.2,12.8,-0.3999999999999986,-3.03,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585638020056,akram,2017-12-09,2018-01-14,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+585638020062,mahima,2017-12-31,2018-01-14,15.0,14.4,-0.5999999999999996,-4.0,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+585638020072,sanjidaakter,2017-12-28,2018-05-13,12.5,13.4,0.9000000000000004,7.2,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585638020074,rafi,2018-01-14,2018-06-10,16.9,16.6,-0.29999999999999716,-1.78,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+585638020077,mahima,2017-12-28,2018-03-11,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585638020078,habiba,2017-12-28,2018-01-14,14.0,14.9,0.9000000000000004,6.43,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585638020081,solemanhossan,2017-12-09,2018-01-14,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+585638020088,rafi,2017-12-31,2018-01-14,12.5,12.96,0.46000000000000085,3.68,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585638020135,Tina urang,2017-12-09,2018-01-14,13.0,13.3,0.3000000000000007,2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585638060002,farica,2018-01-21,2018-03-18,12.5,13.0,0.5,4.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585638060007,siyam,2017-12-23,2018-02-17,16.3,17.0,0.6999999999999993,4.29,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+585638060008,rahima,2017-12-23,2018-03-18,12.2,12.2,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585638060020,rafi,2017-12-23,2018-02-17,12.3,14.0,1.6999999999999993,13.82,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585638080046,Rahim,2017-12-23,2018-03-18,13.25,13.0,-0.25,-1.89,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585638080058,sadin dotto,2017-12-23,2018-03-18,12.5,13.3,0.8000000000000007,6.4,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585638090014,FAHIM MIA,2017-12-02,2017-12-18,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585638090051,IBRAHIM MIA,2017-11-17,2017-12-02,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585638090052,FAHMIDA AKTER,2017-11-17,2017-12-02,11.0,11.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+585638090055,TANIA BEGUM,2017-11-17,2017-12-02,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585638090085,MILI AKTER,2017-11-17,2017-12-02,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585657010048,taypea begum,2017-12-20,2018-07-05,12.5,12.6,0.09999999999999964,0.8,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585657010101,sopno,2017-12-21,2018-10-04,15.5,15.8,0.3000000000000007,1.94,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+585657020042,surjho devnath,2017-12-27,2018-09-24,12.08,13.8,1.7200000000000006,14.24,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585657020048,rabbi,2017-12-27,2018-02-25,13.7,14.5,0.8000000000000007,5.84,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585657020051,labib,2017-12-27,2018-06-25,14.4,15.9,1.5,10.42,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585657040008,shuvo khar,2017-12-24,2018-04-19,12.08,14.0,1.92,15.89,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585657040020,Sneha phal rittika,2017-12-24,2018-11-15,12.7,15.5,2.8000000000000007,22.05,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+585657060001,saymon,2017-12-21,2017-12-28,13.7,12.5,-1.1999999999999993,-8.76,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585657060020,srabony,2017-12-21,2018-03-22,12.7,13.6,0.9000000000000004,7.09,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585657060038,akib,2017-12-21,2018-02-22,13.5,14.5,1.0,7.41,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585657060075,Barsha,2017-12-20,2018-03-22,12.3,14.0,1.6999999999999993,13.82,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585657070048,Mehedi Hasan,2017-12-21,2018-08-20,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585657070092,Mampi Sobdokar,2017-12-21,2018-03-19,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585657070099,Mujahid Miah,2017-12-21,2018-04-16,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585657120001,Suhan Miah,2017-12-21,2018-04-02,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585657120007,Mim Akter,2017-12-20,2017-12-21,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585657120012,Nahid Miah,2017-12-21,2018-05-07,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585657120039,Sajjadur Rahman,2017-12-21,2018-10-01,14.0,15.4,1.4000000000000004,10.0,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585657120040,Tarek Miah,2017-12-20,2018-04-02,13.0,14.5,1.5,11.54,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585666020015,Intake akter,2017-12-27,2017-12-28,12.8,12.8,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585666020073,tayaful islam,2017-12-28,2018-04-19,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+585666040050,Nusrat begum,2017-11-23,2017-12-28,13.9,13.9,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585666050008,junahid mia,2017-12-27,2018-10-04,20.0,14.0,-6.0,-30.0,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+585666050016,kalam,2017-12-07,2017-12-27,13.9,13.2,-0.7000000000000011,-5.04,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666050049,fahat mia,2017-11-27,2018-11-01,15.1,14.9,-0.1999999999999993,-1.32,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+585666050069,mujahid mia,2017-11-27,2018-03-01,16.6,16.3,-0.3000000000000007,-1.81,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+585666120067,thanesa,2016-09-13,2018-03-05,13.3,14.1,0.7999999999999989,6.02,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585666120090,hadiya,2017-12-27,2017-12-28,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+585666120113,reyan,2016-10-10,2018-02-05,12.5,13.6,1.0999999999999996,8.8,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585666120120,sidul,2017-02-25,2018-04-02,13.5,14.3,0.8000000000000007,5.93,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585666160001,Ritu,2017-12-27,2018-06-28,13.5,13.0,-0.5,-3.7,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666160012,jisan,2017-12-27,2018-06-28,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666160013,majed,2017-12-27,2018-06-28,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666160021,kadija,2017-12-27,2018-01-30,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+585666220100,Ritu begum,2018-01-08,2018-06-04,13.3,14.0,0.6999999999999993,5.26,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585666220116,samima,2017-12-04,2018-01-08,12.5,11.9,-0.5999999999999996,-4.8,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666220118,Labiba begum,2017-12-04,2018-06-04,14.4,14.2,-0.20000000000000107,-1.39,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666220150,Abu said,2017-12-04,2018-01-08,14.2,14.3,0.10000000000000142,0.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585666220151,abdullah,2017-12-04,2018-06-04,14.5,13.8,-0.6999999999999993,-4.83,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666220179,Aysha siddika,2017-12-04,2018-01-08,13.5,14.7,1.1999999999999993,8.89,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585666220192,Tamim miya,2017-12-04,2018-06-04,15.0,14.6,-0.40000000000000036,-2.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+585666220213,sojib kor,2017-12-04,2018-03-05,14.4,15.2,0.7999999999999989,5.56,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585666220224,Rima kor,2017-12-04,2018-06-04,12.4,12.7,0.29999999999999893,2.42,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585666220239,sraboni kor,2018-01-08,2018-06-04,12.5,12.7,0.1999999999999993,1.6,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585666220255,sowrob malakar,2017-12-04,2018-06-04,15.1,15.6,0.5,3.31,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+585666260011,nasir uddin,2017-08-10,2018-10-08,10.8,15.0,4.199999999999999,38.89,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+585666260036,fahmida akther,2017-12-11,2018-04-09,14.3,14.0,-0.3000000000000007,-2.1,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+585666260057,hussain miah,2017-12-11,2018-10-08,14.7,15.3,0.6000000000000014,4.08,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+585676010021,Abu hanif,2018-02-08,2018-04-12,15.0,14.7,-0.3000000000000007,-2.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+585676030010,Farhan ahmed Rahi,2018-05-14,2019-04-08,13.5,13.9,0.40000000000000036,2.96,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040005,marjiya,2018-01-08,2018-04-02,13.2,13.5,0.3000000000000007,2.27,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040009,tasmiya,2018-01-08,2018-04-02,13.2,13.5,0.3000000000000007,2.27,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040017,salma,2018-01-08,2018-04-02,13.1,13.2,0.09999999999999964,0.76,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040024,joni ahmed,2018-02-05,2018-03-05,13.0,13.1,0.09999999999999964,0.77,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040030,nusrat,2018-01-08,2018-04-02,14.1,14.4,0.3000000000000007,2.13,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040032,jannat,2017-12-06,2018-01-08,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676040036,samiya,2017-12-06,2018-04-02,13.0,13.6,0.5999999999999996,4.62,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676070567,Tanjina,2017-12-28,2018-04-24,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676080021,ajman,2017-12-18,2017-12-28,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676080057,mahifa,2017-12-18,2018-04-16,11.9,12.4,0.5,4.2,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676110003,majidul,2017-12-26,2018-03-22,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+585676110036,farhadul,2017-12-26,2018-03-22,13.5,14.0,0.5,3.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+585676150063,Junaid mia,2017-12-24,2018-09-27,13.1,13.8,0.7000000000000011,5.34,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676150069,Raj baidya,2017-12-24,2018-06-28,11.2,13.0,1.8000000000000007,16.07,Severe,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+585676150070,purnima baidya,2017-12-24,2018-04-26,15.0,15.8,0.8000000000000007,5.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586511010002,Farhan hossain,2017-12-14,2017-12-18,8.0,13.5,5.5,68.75,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+586511010004,Majeda begam,2017-11-22,2018-05-30,15.0,14.2,-0.8000000000000007,-5.33,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511010005,Rahim,2017-12-18,2018-01-22,15.0,12.0,-3.0,-20.0,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511010010,Samiya,2017-11-18,2017-12-18,7.0,8.0,1.0,14.29,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+586511010022,Sadia,2017-08-19,2017-12-18,10.0,12.5,2.5,25.0,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+586511010025,Mahobuba,2017-10-30,2017-12-18,12.5,15.55,3.0500000000000007,24.4,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511010030,Manila Begum,2017-07-09,2017-11-13,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586511020004,Sami Ahmed,2018-01-14,2018-03-11,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511020009,sima,2017-10-26,2018-01-14,16.0,12.0,-4.0,-25.0,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511020028,Habibur Rahman Labib,2018-01-14,2018-03-11,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586511020077,Tamjid Ahmed,2018-01-03,2018-03-07,14.0,18.0,4.0,28.57,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511020080,Anika Begum,2018-01-03,2018-04-04,18.0,16.0,-2.0,-11.11,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586511020093,Mahi Ahmed,2018-01-03,2018-03-07,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511020137,robin,2017-11-25,2017-12-20,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586511030001,Mahisa Akhtar,2018-01-07,2018-04-01,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586511030012,Rima Das,2017-08-23,2018-04-01,9.0,16.0,7.0,77.78,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+586511030029,Habiba akhter,2017-09-05,2018-06-03,14.0,17.2,3.1999999999999993,22.86,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511030050,Samiul islam,2017-09-04,2018-09-04,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511050023,shaki begum,2018-01-01,2018-01-10,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511050042,juma begum,2017-04-16,2018-04-11,14.5,14.0,-0.5,-3.45,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586511050071,Rima begum,2017-08-08,2018-03-14,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586511060028,hoychan,2018-01-17,2018-05-23,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511060032,okiva BeGum,2018-01-17,2018-09-19,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586511060076,mousthakin kian,2018-01-17,2018-07-18,15.0,14.5,-0.5,-3.33,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511070039,fathama,2017-07-01,2018-07-18,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586511070050,moray ganat,2017-09-26,2018-05-23,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511070084,ove dab,2017-07-28,2018-09-19,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586511080013,saha husan kan,2018-05-13,2018-10-14,14.2,15.5,1.3000000000000007,9.15,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511080014,hajara kanom,2018-07-15,2018-10-14,14.5,14.6,0.09999999999999964,0.69,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586511080016,rihad alli sah,2018-01-14,2018-05-13,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511080017,rifat alli sah,2018-02-11,2018-10-14,16.0,14.5,-1.5,-9.38,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511090006,fatama Begum,2018-01-14,2018-05-13,15.0,15.7,0.6999999999999993,4.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586511090012,nahida eslam,2017-10-26,2018-09-09,14.0,13.2,-0.8000000000000007,-5.71,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586511090019,Suyahil ahmod,2018-05-13,2019-08-10,13.5,15.25,1.75,12.96,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511090026,rika bagem,2017-12-12,2018-01-10,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511090033,imad mia,2017-10-12,2018-01-10,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586511090037,mahfuj islam,2017-10-12,2018-04-11,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586511090043,jubayal ahmod,2017-10-12,2018-06-13,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586511090045,mahiya baagem,2017-10-12,2018-01-10,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586511110039,Taiba Jannat Urmi,2018-01-07,2018-04-01,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511110043,Suhan Ahmed,2018-01-07,2018-04-01,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511110048,Abir Ahmed,2018-01-07,2018-02-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511160008,prinaka,2017-10-28,2017-12-19,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511160031,soupoll,2017-10-24,2017-12-19,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511180077,Surjo Islam,2018-01-07,2018-04-01,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511190004,Sunia Jannat,2018-01-14,2018-03-11,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511190005,sonch kar,2017-10-27,2017-12-27,16.0,14.0,-2.0,-12.5,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511190007,Surjo Kar,2018-01-14,2018-03-11,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511190008,Santo Kar,2018-01-14,2018-03-11,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586511190010,Supria Kor,2017-12-27,2018-01-14,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586511220014,collsusma,2017-08-19,2018-01-07,15.0,14.5,-0.5,-3.33,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586511220087,Rima begum,2018-01-10,2018-04-11,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511380009,fahima aktar,2018-01-14,2018-06-10,13.0,12.9,-0.09999999999999964,-0.77,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586511380021,sani miha,2018-01-14,2018-02-11,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511380025,monira janat,2018-01-14,2018-06-10,14.0,15.2,1.1999999999999993,8.57,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586511380043,nirob miha,2018-01-14,2018-02-11,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586559020011,Saleh Ahmed,2017-12-27,2018-12-26,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559020012,Tamanna Akther,2017-10-25,2018-12-04,11.0,6.1,-4.9,-44.55,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559020017,rimu akther,2017-10-17,2017-12-28,14.0,11.5,-2.5,-17.86,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586559020021,Aki,2017-06-18,2017-07-18,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559020022,polash,2017-12-23,2017-12-27,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559020023,Shojib Ahmed,2017-10-25,2017-12-28,9.15,10.0,0.8499999999999996,9.29,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+586559020024,ayesha,2017-12-17,2017-12-28,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586559020028,sujath,2017-11-27,2017-12-27,11.0,10.0,-1.0,-9.09,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559020053,koly,2017-12-27,2018-08-25,10.0,15.0,5.0,50.0,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+586559020058,baby,2017-12-28,2018-07-28,9.0,8.0,-1.0,-11.11,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559020089,poly,2017-08-28,2017-12-28,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586559030001,nijum akther,2017-03-10,2017-08-17,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586559040011,ashik,2017-12-27,2018-09-04,10.0,10.3,0.3000000000000007,3.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+586559040022,nazmin,2017-02-20,2017-12-27,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559040025,Safia,2017-10-19,2017-12-27,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559040080,Chareg Ali,2017-10-25,2018-01-20,11.0,10.0,-1.0,-9.09,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559040142,Diya Boidya,2017-05-29,2017-11-27,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586559040178,Husain Ahmed,2017-05-29,2018-08-27,15.0,15.1,0.09999999999999964,0.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559050028,Harun,2017-08-27,2018-01-27,10.0,20.0,10.0,100.0,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+586559050031,ruhul amin,2017-12-14,2018-03-08,17.0,18.0,1.0,5.88,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559060012,shely,2017-11-27,2017-12-28,10.0,9.0,-1.0,-10.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559070023,Nahid,2017-12-16,2017-12-27,11.0,9.0,-2.0,-18.18,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559070031,shuvo das,2017-11-27,2017-12-27,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586559080008,Mariya,2018-06-07,2018-10-04,13.1,13.2,0.09999999999999964,0.76,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586559080010,Sayem,2017-11-02,2018-09-06,15.0,14.4,-0.5999999999999996,-4.0,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586559080017,Nurani,2017-04-16,2018-03-01,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586559080024,mehedi,2017-08-03,2018-10-04,15.0,13.2,-1.8000000000000007,-12.0,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586559080026,Nahid,2018-06-07,2018-09-06,13.4,13.1,-0.3000000000000007,-2.24,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586559080047,Tabasun,2017-12-07,2018-09-06,14.0,13.9,-0.09999999999999964,-0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586559080061,Tanisa,2018-04-04,2018-10-04,15.0,15.4,0.40000000000000036,2.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559080081,Akram,2018-01-04,2018-07-05,17.0,14.8,-2.1999999999999993,-12.94,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586559090012,Sani,2017-11-27,2017-12-27,12.0,11.0,-1.0,-8.33,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+586559090014,Fatema Akther,2017-11-27,2017-12-28,11.0,13.0,2.0,18.18,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+586559090022,konika,2017-12-27,2018-01-27,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559090051,Baila khatun,2017-05-04,2017-06-04,6.2,7.0,0.7999999999999998,12.9,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+586559100010,Saidur,2017-12-27,2017-12-28,11.0,5.0,-6.0,-54.55,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+586559100015,Ekra,2017-11-26,2017-12-27,10.0,11.0,1.0,10.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+586559100035,tanjila aktar,2017-08-17,2018-03-08,16.0,17.0,1.0,6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100039,jamil hushen,2017-08-17,2018-07-12,15.0,17.3,2.3000000000000007,15.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100044,hapy aktar,2017-10-12,2018-03-08,16.0,17.0,1.0,6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100055,tasiya aktar,2017-08-17,2018-05-10,16.0,19.0,3.0,18.75,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100060,koly aktar,2017-08-17,2018-07-12,15.0,18.2,3.1999999999999993,21.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100063,shimul ahmed,2016-09-14,2018-03-08,15.0,17.0,2.0,13.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100064,jamil husen,2018-02-08,2018-07-12,16.0,17.3,1.3000000000000007,8.13,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100065,tawhid islam,2018-02-08,2018-05-10,18.0,20.0,2.0,11.11,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559100078,ruhul amin,2017-11-09,2018-03-08,17.0,17.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586559110012,mehedi,2017-06-26,2017-12-22,17.0,12.0,-5.0,-29.41,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586559120051,saymon,2017-06-24,2017-08-30,16.0,17.0,1.0,6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586559120052,shamira,2017-05-25,2017-12-26,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586559150095,tanni,2017-12-28,2018-02-28,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586559150240,kamrul ibne,2017-11-06,2017-12-08,16.0,13.0,-3.0,-18.75,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586559150383,tanisa aktar,2017-06-15,2018-06-04,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586559160002,ayesha,2017-11-27,2017-12-27,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+586559170028,ayesha,2017-11-27,2018-01-27,10.0,12.0,2.0,20.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+586559170076,parvez,2017-09-27,2017-10-24,18.0,10.0,-8.0,-44.44,Good,Severe,Condition Deteriorated,Healthy,High Risk,Moved to Worse Group,Deteriorated
+586571010059,Nure fateha sadea,2018-01-01,2018-04-02,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586571020013,srijoni mollik,2017-11-13,2018-07-09,13.0,13.3,0.3000000000000007,2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586571020018,oishirani malakar,2018-01-08,2018-05-14,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586571020043,Abdullah,2017-10-09,2018-01-08,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586571020061,Abdullah al hasan,2017-06-12,2018-01-08,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586571020069,tanvir ahmed,2017-09-10,2018-07-09,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586571020082,rayhan ahmed,2018-03-12,2018-05-14,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586571040046,summary  jannat,2017-08-28,2017-11-27,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586571060003,anisha,2017-12-13,2018-06-11,13.2,15.1,1.9000000000000004,14.39,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586571060007,Jishan ahmed,2018-01-08,2018-04-09,16.1,15.2,-0.9000000000000021,-5.59,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586571060024,nuva begum,2018-01-08,2018-06-11,17.1,17.1,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586571060051,poly begum,2018-01-08,2018-06-11,16.1,15.2,-0.9000000000000021,-5.59,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586571060055,Taniya begum,2018-01-08,2018-06-11,15.1,15.1,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+586571060056,Ramim ahmed,2018-01-08,2018-04-09,17.1,15.1,-2.0000000000000018,-11.7,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586571060069,sahana jannat juti,2018-01-08,2018-06-11,17.1,13.1,-4.000000000000002,-23.39,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586571060094,Tasmiya rahman anisha,2018-01-08,2018-05-14,15.2,14.1,-1.0999999999999996,-7.24,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586571070117,rahim ali,2017-08-07,2018-04-02,14.2,13.5,-0.6999999999999993,-4.93,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586571080105,oishi mollik,2017-06-22,2018-05-24,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586571080106,dibbo malaker,2017-07-28,2018-05-24,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586571110182,sorna,2017-05-18,2018-10-18,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586571110183,mahia,2017-11-15,2018-02-15,10.0,14.0,4.0,40.0,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+586571130001,liza,2017-03-22,2018-02-01,15.0,17.2,2.1999999999999993,14.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586571130006,Sumaiya jannat,2017-11-02,2018-10-04,14.3,13.2,-1.1000000000000014,-7.69,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586571130007,Tanjuma jannat tahmida,2017-11-02,2018-10-04,16.2,15.2,-1.0,-6.17,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586571130010,Aysha begum,2017-11-02,2018-10-04,16.1,14.2,-1.9000000000000021,-11.8,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586571140003,SEPON AHMOD,2017-09-12,2017-12-18,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586571140008,GELMAN AHMOD,2017-08-26,2017-12-26,15.6,14.5,-1.0999999999999996,-7.05,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586571140011,JAMEL AHMOD,2017-07-26,2018-04-16,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586571140014,RAHMUMA,2017-12-18,2018-02-19,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586571160008,tammi begum,2017-05-26,2018-05-10,15.2,14.8,-0.3999999999999986,-2.63,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+586571160041,jim akthar,2017-08-17,2018-07-12,14.2,14.7,0.5,3.52,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586571160056,thawhid Ahmed,2017-07-13,2018-02-08,14.5,15.2,0.6999999999999993,4.83,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586571160061,munni akthar,2018-01-11,2018-04-12,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586571170033,tanisa,2017-12-09,2018-12-20,14.5,14.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595010005,suraiya akther,2018-01-08,2018-03-12,13.2,14.3,1.1000000000000014,8.33,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010021,nabil ahmod,2017-12-26,2018-01-26,15.0,15.1,0.09999999999999964,0.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586595010023,taiba akther,2017-11-12,2018-03-12,14.1,14.6,0.5,3.55,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010029,afruja akther,2018-01-08,2018-04-09,14.7,15.4,0.7000000000000011,4.76,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586595010030,muid ahmod,2018-01-08,2018-05-14,14.5,14.3,-0.1999999999999993,-1.38,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586595010041,taslima akther,2017-12-10,2018-03-12,12.7,13.9,1.200000000000001,9.45,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010042,sujel ahmod,2018-01-08,2018-02-12,13.3,14.9,1.5999999999999996,12.03,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595010046,faija akther,2017-11-12,2018-03-12,13.1,13.6,0.5,3.82,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010087,sajed ahmod,2018-01-08,2018-02-12,14.5,14.7,0.1999999999999993,1.38,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595010092,joni ahmed,2017-08-13,2018-03-12,13.2,13.8,0.6000000000000014,4.55,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010113,saidul ahmod,2018-01-08,2018-02-12,13.7,14.2,0.5,3.65,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010116,sadiya akther,2017-10-15,2018-01-08,12.8,13.6,0.7999999999999989,6.25,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010117,ayesa akther,2017-04-10,2019-01-08,13.2,12.6,-0.5999999999999996,-4.55,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586595010124,redoyan ahmod,2018-01-08,2018-02-12,14.1,14.2,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010143,said ahmod,2018-01-08,2018-04-09,13.6,13.6,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595010173,junaid ahmod,2018-01-08,2018-02-12,14.3,14.3,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595010177,sufiyan ahmod,2018-01-08,2018-05-14,14.4,14.9,0.5,3.47,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595010187,suniya akther,2017-08-13,2018-03-12,14.2,14.9,0.7000000000000011,4.93,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595010188,subel ahmod,2018-01-08,2018-05-14,14.9,14.3,-0.5999999999999996,-4.03,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586595010189,moni akther,2017-08-13,2018-05-14,14.1,14.3,0.20000000000000107,1.42,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010196,marjana akther,2017-08-13,2018-04-09,12.8,13.5,0.6999999999999993,5.47,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010197,suniya akther,2017-08-13,2018-03-12,13.1,13.9,0.8000000000000007,6.11,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595010211,nafij ahmod,2018-01-08,2018-02-12,13.6,13.7,0.09999999999999964,0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595040008,ajir miya,2017-11-25,2019-01-11,14.2,15.0,0.8000000000000007,5.63,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595040101,biti,2017-05-26,2017-12-27,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+586595060032,Racin ahmed,2018-01-08,2019-03-11,14.2,14.3,0.10000000000000142,0.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595060035,emran ahmed,2017-05-14,2018-05-14,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060036,mariya jannat,2017-04-16,2018-09-10,12.0,15.2,3.1999999999999993,26.67,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060067,abdul ajij tamjid,2018-05-14,2018-08-13,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060072,mimi akther,2018-04-09,2018-10-08,15.0,16.2,1.1999999999999993,8.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586595060103,Moumi akther,2018-01-08,2018-05-14,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060118,Jihad ahmed,2017-04-16,2018-05-14,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595060136,Meher housain,2018-05-14,2018-08-13,15.0,15.1,0.09999999999999964,0.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+586595060140,Jorna akther,2017-04-16,2018-09-10,12.0,15.2,3.1999999999999993,26.67,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060141,Rayhan ahmed,2017-04-16,2018-02-12,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595060158,Robiul islam,2018-05-14,2018-10-08,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595060162,Rafi ahmed,2017-04-16,2018-09-10,12.0,15.4,3.4000000000000004,28.33,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060164,fatema jannat,2017-12-10,2018-10-08,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+586595060176,Refa akther,2017-04-16,2018-04-09,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586595060188,mahbuba jannat,2018-01-08,2018-07-09,12.0,13.5,1.5,12.5,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595060194,Anamul.hok,2018-01-08,2018-05-14,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595060199,Rafi ahmed,2017-06-11,2018-10-08,13.0,15.2,2.1999999999999993,16.92,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+586595060219,esita akther,2017-04-16,2018-04-09,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+586595070026,ohi aislam,2017-12-24,2018-02-21,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595070058,amina aktar,2017-07-23,2017-12-24,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595070073,shadihan Ahmed,2017-07-23,2017-12-24,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586595080025,rina akther,2017-12-26,2018-01-27,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+586595090018,lima akther,2017-04-05,2018-05-03,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595090059,masuma begum,2018-01-04,2018-05-03,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595090110,rakin. ahmad,2018-01-04,2018-05-03,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+586595110035,mim,2017-10-06,2017-12-05,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+587480010001,joya,2017-12-17,2017-12-19,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+587480010002,Asma,2017-12-18,2017-12-19,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+587480010003,Tito,2017-12-17,2017-12-18,24.0,12.0,-12.0,-50.0,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+587480010005,Sumon,2017-12-17,2017-12-19,12.75,10.0,-2.75,-21.57,At Risk,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+587480010008,Saddam,2017-09-04,2017-12-17,13.5,15.5,2.0,14.81,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480010009,Razzak,2017-12-14,2017-12-17,12.5,17.0,4.5,36.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480010011,Fahmi,2017-12-17,2017-12-18,12.5,15.0,2.5,20.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480010021,Akhi,2017-12-18,2017-12-27,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+587480010024,Sumaiya Akter Farjana,2018-01-27,2018-02-24,14.3,15.2,0.8999999999999986,6.29,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480010029,TANISA  BEGUM,2017-12-17,2017-12-27,14.0,14.4,0.40000000000000036,2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+587480030023,farha jannat noha,2017-10-28,2017-12-30,14.5,14.7,0.1999999999999993,1.38,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480030025,Adil Hasan Toha,2017-10-29,2017-12-30,15.5,14.2,-1.3000000000000007,-8.39,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+587480030088,Tahmid Ahmed Tahin,2017-11-25,2017-12-18,14.5,14.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+587480030101,Labia Akter,2017-11-25,2017-12-18,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+587480060009,Siam Ahmed,2017-10-17,2018-02-13,14.2,15.0,0.8000000000000007,5.63,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480060015,Mojammel,2017-12-12,2017-12-18,14.9,15.0,0.09999999999999964,0.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+587480060019,ruma,2018-06-12,2018-10-14,11.7,13.0,1.3000000000000007,11.11,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+587480060020,tasfia,2017-12-18,2018-10-14,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+587480060021,Muntaha,2017-12-12,2017-12-18,14.3,15.0,0.6999999999999993,4.9,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+587480080006,Sumi kor,2017-10-07,2017-12-02,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+587480080009,Joni kor,2017-10-07,2017-12-02,12.5,12.5,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+587487010002,oishi,2017-12-27,2017-12-28,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+587487010003,Mristy,2017-12-27,2017-12-28,8.0,12.0,4.0,50.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+587487010086,Akib,2017-12-27,2017-12-28,12.18,9.0,-3.1799999999999997,-26.11,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+587487050001,tumpa,2017-12-27,2017-12-28,14.0,5.0,-9.0,-64.29,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+587487060024,nahim miah,2017-12-27,2018-07-07,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+587487130005,rihadul.islam,2018-04-26,2018-07-17,12.1,12.2,0.09999999999999964,0.83,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+587487160093,aysa,2017-12-27,2017-12-28,13.5,13.7,0.1999999999999993,1.48,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588042010004,subal,2017-08-26,2017-12-28,8.0,6.0,-2.0,-25.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+588042010016,lubna,2017-12-27,2017-12-28,10.0,7.0,-3.0,-30.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+588042010022,subal,2017-12-27,2018-01-28,13.5,13.55,0.05000000000000071,0.37,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588042010023,bappon,2017-07-27,2018-01-04,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588042010024,Naeem,2017-12-27,2018-04-28,14.0,12.5,-1.5,-10.71,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588042010025,farhana akter,2017-11-22,2018-03-27,13.7,5.0,-8.7,-63.5,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+588042010026,Sadi ahmed,2017-11-22,2017-12-28,14.0,7.0,-7.0,-50.0,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+588042010038,Outsmart Mahan alisa,2017-11-22,2017-12-28,14.0,7.0,-7.0,-50.0,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+588042010053,shepon debnath,2017-11-22,2017-12-28,13.015,13.7,0.6849999999999987,5.26,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588042010070,Paton shil,2017-11-22,2017-12-28,10.1,8.0,-2.0999999999999996,-20.79,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+588042010080,Ali,2017-12-27,2017-12-28,10.0,9.0,-1.0,-10.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+588042010096,om,2017-12-27,2018-06-17,11.5,13.0,1.5,13.04,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588042020001,Piya,2017-11-22,2017-12-27,5.0,13.1,8.1,162.0,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+588042020012,imu akter,2017-11-22,2017-11-28,14.0,13.1,-0.9000000000000004,-6.43,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588042020019,suhag ahmed,2017-11-22,2017-12-28,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588042020044,Mahdi Mia,2017-11-22,2017-12-28,14.5,14.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588042040035,Tania Begum,2017-09-17,2017-12-24,13.3,12.65,-0.6500000000000004,-4.89,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588042040143,Borscht Zahan,2017-07-26,2017-12-28,14.0,14.8,0.8000000000000007,5.71,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+588042090029,lija,2017-12-28,2018-03-28,13.5,13.0,-0.5,-3.7,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588042090067,mim,2017-12-28,2018-03-28,13.5,13.0,-0.5,-3.7,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588042160019,Sabina,2018-01-08,2018-02-07,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588042160062,raj das,2017-12-17,2018-04-08,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+588319010002,Hridoy Khan,2017-08-15,2018-01-03,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588319010003,Share Khan,2017-11-16,2017-12-19,15.0,13.5,-1.5,-10.0,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+588319010005,Tapos,2017-08-27,2018-01-27,13.0,18.0,5.0,38.46,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+588319010023,Rita akter,2017-12-27,2017-12-28,8.0,13.35,5.35,66.88,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+588319010046,Oyswaria Rai,2017-07-14,2017-10-18,14.0,18.0,4.0,28.57,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+588319010053,Rimu,2017-12-19,2017-12-28,13.5,12.9,-0.5999999999999996,-4.44,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588319010063,Tahana,2017-12-18,2017-12-28,13.0,12.8,-0.1999999999999993,-1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588319020038,naheda akhter,2017-12-05,2018-02-07,14.1,14.5,0.40000000000000036,2.84,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588319020064,sadea akhter,2017-12-05,2018-04-04,14.1,14.5,0.40000000000000036,2.84,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588319020077,mahmud mia,2017-12-05,2018-04-04,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+588319030055,riya,2017-12-14,2018-01-11,15.2,12.2,-3.0,-19.74,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+588319030085,juma,2017-12-30,2018-03-24,12.5,15.2,2.6999999999999993,21.6,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+588319040067,bonna sarkar,2017-10-10,2017-12-13,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588319060235,saniya akter,2017-03-28,2017-06-07,13.2,13.4,0.20000000000000107,1.52,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588319080028,subojit sarkar,2017-12-25,2018-01-28,15.5,15.5,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+588319090132,nasir ahmed akram,2017-02-09,2018-04-08,14.7,14.4,-0.29999999999999893,-2.04,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+588319090137,nusrat jannat tima,2017-08-12,2018-04-08,13.1,14.2,1.0999999999999996,8.4,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588319090140,jakariha husen jihad,2017-12-09,2018-04-08,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588319090167,salman ahmed siham,2017-12-09,2018-01-11,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328010003,mimi,2016-10-13,2018-01-04,14.7,25.0,10.3,70.07,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+588328010006,"halima alter,",2017-12-28,2018-01-02,14.1,11.9,-2.1999999999999993,-15.6,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588328010016,Rahim,2017-12-27,2017-12-28,12.8,13.2,0.3999999999999986,3.12,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328010043,Labnno,2017-12-27,2017-12-28,12.85,25.0,12.15,94.55,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+588328010065,Aorup,2017-12-27,2017-12-28,12.5,13.05,0.5500000000000007,4.4,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328010169,Ashik mia,2017-12-27,2018-01-07,9.0,9.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+588328020018,Ornob,2018-04-12,2018-08-09,14.1,14.3,0.20000000000000107,1.42,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328020170,ornob sarkar,2017-12-28,2018-07-12,13.2,14.2,1.0,7.58,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588328020339,rahim,2017-12-28,2018-04-12,12.8,13.0,0.1999999999999993,1.56,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328030237,Marufa Akter,2017-09-20,2018-06-23,12.5,13.4,0.9000000000000004,7.2,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328030272,Saki akter,2017-08-29,2017-12-26,12.4,13.9,1.5,12.1,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588328030329,Rita Akter,2017-12-26,2017-12-28,12.4,12.4,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588328040013,Afiqul Islam,2017-08-22,2018-04-19,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588328040031,Nazifa Aktar,2017-08-22,2017-11-21,12.0,12.5,0.5,4.17,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588328040093,Tahshan Tamim,2017-11-18,2017-12-18,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+588328040094,Chahida Aktar Jamia,2017-11-12,2017-12-09,14.0,16.0,2.0,14.29,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+588328040100,Farhan Hossain,2017-08-12,2017-12-18,15.0,12.0,-3.0,-20.0,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+588328040111,Sumaya Aktar,2017-09-09,2017-12-18,12.5,12.0,-0.5,-4.0,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588328040139,Jiad Hossain,2017-11-11,2017-12-09,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+588328040140,Aymon Miah,2017-11-11,2017-12-09,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+588328040145,Arafat Uddin Aftab,2017-11-11,2017-12-09,14.5,14.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588328040176,Mahbuba Aktar Jakia,2017-08-12,2017-12-09,12.0,14.5,2.5,20.83,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588328040190,Boisaki Chondo Borsha,2017-08-12,2017-11-11,12.5,13.5,1.0,8.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+588328060035,tisha,2018-05-21,2018-07-16,15.4,15.3,-0.09999999999999964,-0.65,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+588328090030,Fatema jannat diya,2017-12-28,2018-03-21,13.6,14.0,0.40000000000000036,2.94,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328090132,Naima,2017-12-28,2018-05-07,13.8,13.7,-0.10000000000000142,-0.72,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588328100166,tanjila jannat suhana,2017-12-28,2018-05-07,13.5,14.5,1.0,7.41,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+588328100167,najifa akther raisha,2018-01-01,2018-03-05,15.5,15.5,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+588328100172,tamim hussain,2017-12-28,2018-06-04,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588328100178,Sharif najim,2018-01-01,2018-07-02,14.5,14.0,-0.5,-3.45,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588328100179,reahid Ahmed sami,2018-01-01,2018-07-02,13.0,12.5,-0.5,-3.85,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+588328100197,mahid Ahmed tambir,2017-08-05,2018-05-07,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+588328100213,sania,2018-01-01,2018-03-05,12.5,12.5,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+588328100215,jaisan miha,2018-01-01,2018-03-05,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+910813010001,Mariah begum,2017-12-18,2018-02-21,10.0,12.0,2.0,20.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+910813010005,Bbb,2017-12-17,2017-12-19,8.0,12.0,4.0,50.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+910813010007,ROMan,2017-12-18,2017-12-31,11.5,13.0,1.5,13.04,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910813010008,Dddd,2017-12-18,2018-02-21,11.5,11.0,-0.5,-4.35,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+910813010009,Mmmm,2017-12-19,2018-01-19,11.6,11.95,0.34999999999999964,3.02,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910813010012,Hafija,2017-12-21,2017-12-31,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+910813010045,mitu,2017-11-02,2017-11-29,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910813090082,Minhaj,2018-01-18,2018-09-27,15.5,15.3,-0.1999999999999993,-1.29,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910813090086,Emon,2018-01-18,2018-09-27,14.6,14.6,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910813090118,Arif,2018-01-18,2018-06-07,15.3,14.5,-0.8000000000000007,-5.23,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910813100001,Diya das,2017-12-25,2018-02-25,15.0,14.5,-0.5,-3.33,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910813100031,Jibon das,2018-01-15,2018-02-25,13.5,12.8,-0.6999999999999993,-5.19,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910813100060,Habiba aktar,2018-01-15,2018-06-04,14.0,13.6,-0.40000000000000036,-2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910813100066,Tanisha aktar,2018-01-15,2018-09-24,14.0,15.2,1.1999999999999993,8.57,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910813110012,Tanisha,2018-07-05,2018-09-27,11.8,12.0,0.1999999999999993,1.69,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910813110016,Shaki,2018-01-18,2018-09-27,13.6,13.5,-0.09999999999999964,-0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910813110028,Rahim,2018-01-18,2018-08-30,19.0,18.5,-0.5,-2.63,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910813150030,Abdul Mumin,2018-01-08,2018-04-02,15.4,14.4,-1.0,-6.49,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910813150044,Hafsa Begum,2017-08-30,2018-01-08,10.0,12.2,2.1999999999999993,22.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+910813150052,Ripa Begum,2018-01-08,2018-04-02,13.4,14.4,1.0,7.46,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910813150058,Naima Begum,2018-01-08,2018-03-05,12.2,13.2,1.0,8.2,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867010005,rapi,2016-12-20,2018-01-01,12.3,5.2,-7.1000000000000005,-57.72,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+910867010009,busra begum,2017-12-02,2018-04-21,14.1,15.9,1.8000000000000007,12.77,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867010021,rayhan uddin rahat,2017-12-02,2018-08-11,13.6,14.0,0.40000000000000036,2.94,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867010028,Kayfa Begum,2017-12-30,2018-03-24,16.0,17.5,1.5,9.38,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910867010036,kayum miah,2017-12-02,2018-10-06,13.3,15.2,1.8999999999999986,14.29,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867010048,tawhid hasan rafi,2017-12-30,2018-08-11,12.5,16.0,3.5,28.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867010051,tamjidul islam,2018-07-14,2018-08-11,16.0,15.2,-0.8000000000000007,-5.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910867010054,rafi ahmod,2017-12-02,2018-11-03,13.6,16.1,2.5000000000000018,18.38,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867010055,Ginus,2017-12-22,2017-12-31,13.5,12.0,-1.5,-11.11,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867010075,maysha,2017-12-02,2018-08-11,13.2,14.0,0.8000000000000007,6.06,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867010083,taskin ahmod,2017-12-02,2018-10-06,12.6,14.2,1.5999999999999996,12.7,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867010086,Abdul Hamid Munna,2017-12-02,2018-10-06,14.8,17.2,2.3999999999999986,16.22,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910867010088,asura akter hafija,2018-03-24,2018-11-03,13.5,13.2,-0.3000000000000007,-2.22,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867010089,Mahfuja Akther,2017-12-20,2017-12-30,13.5,13.2,-0.3000000000000007,-2.22,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867010090,jamia,2017-12-02,2018-05-06,13.6,12.6,-1.0,-7.35,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867010091,mahbuba jannat,2017-12-02,2018-08-11,12.4,13.0,0.5999999999999996,4.84,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867020002,rifat ali,2017-11-25,2018-09-01,11.5,14.2,2.6999999999999993,23.48,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867020012,aminul lslam,2017-11-25,2017-12-23,14.4,16.0,1.5999999999999996,11.11,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020016,tayef miah,2017-11-25,2018-10-27,13.2,16.9,3.6999999999999993,28.03,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020026,maisha begum,2017-11-25,2017-12-23,14.1,14.3,0.20000000000000107,1.42,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867020039,iva akther moriom,2017-11-25,2018-06-09,14.5,15.5,1.0,6.9,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020054,tamim ahmod,2017-11-25,2018-09-29,13.5,15.2,1.6999999999999993,12.59,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020068,Ajharul Islam,2017-12-26,2018-10-02,17.6,14.2,-3.400000000000002,-19.32,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910867020073,Jumael Hushen sani,2017-10-30,2017-12-26,14.0,15.3,1.3000000000000007,9.29,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020076,Hafija Begum,2017-12-28,2018-04-17,14.0,14.7,0.6999999999999993,5.0,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020078,Kamran Miah,2017-10-30,2018-11-27,14.0,16.1,2.1000000000000014,15.0,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867020086,Mahjura Begum,2017-12-26,2018-10-02,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867020091,Maria Jannat,2018-07-10,2018-10-30,13.1,13.5,0.40000000000000036,3.05,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867020118,Samia Akther Mim,2017-10-30,2018-05-15,13.0,13.7,0.6999999999999993,5.38,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867020120,Hajera Begum,2018-08-07,2018-10-30,7.15,11.0,3.8499999999999996,53.85,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+910867030036,hamida,2017-12-09,2018-01-21,13.15,14.0,0.8499999999999996,6.46,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867040015,Naheda Begum,2017-12-20,2017-12-27,14.05,14.5,0.4499999999999993,3.2,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867040016,Habiba begum,2017-10-14,2018-05-26,12.5,13.5,1.0,8.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867040033,Marjan Miha,2017-12-20,2018-04-28,12.6,13.0,0.40000000000000036,3.17,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867040034,Rahem Miah,2017-12-20,2018-05-26,13.15,13.0,-0.15000000000000036,-1.14,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867040036,Rumon Miah,2017-10-14,2018-09-15,14.5,13.5,-1.0,-6.9,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867040039,Ariyan Miha,2017-12-28,2018-04-28,13.0,14.1,1.0999999999999996,8.46,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867040041,Kamal,2017-11-17,2017-12-13,12.3,12.6,0.29999999999999893,2.44,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867040055,Momi,2017-12-21,2018-03-21,12.6,12.0,-0.5999999999999996,-4.76,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867050001,Sahdia Begum,2017-11-21,2018-09-22,12.6,13.5,0.9000000000000004,7.14,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867050006,Jul Begum,2017-08-26,2017-11-18,15.3,15.0,-0.3000000000000007,-1.96,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910867050007,Farhan Miahl,2017-08-26,2018-08-25,13.1,14.3,1.200000000000001,9.16,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867050008,Ruhana Begum,2017-08-26,2017-11-18,14.15,14.5,0.34999999999999964,2.47,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867050009,SaRif Miah,2017-08-26,2017-12-21,14.5,12.9,-1.5999999999999996,-11.03,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867050012,metaly,2017-12-21,2018-01-17,13.1,12.6,-0.5,-3.82,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867050018,Raguna Begu,2017-08-26,2017-11-18,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910867050027,Anisha Begum,2017-08-26,2018-04-07,14.2,13.5,-0.6999999999999993,-4.93,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867050050,sati,2018-08-28,2018-09-25,13.5,13.6,0.09999999999999964,0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867050064,Nagiha Janath,2017-09-23,2018-08-04,13.1,14.4,1.3000000000000007,9.92,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867050076,Dipaka Rani Das,2017-10-21,2018-09-01,12.5,14.2,1.6999999999999993,13.6,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867060070,junahid mia,2017-12-24,2018-09-01,14.2,14.3,0.10000000000000142,0.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867060075,muhibur,2017-12-24,2018-09-01,14.3,8.7,-5.600000000000001,-39.16,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+910867060102,kadija bagum,2017-12-26,2018-05-15,14.2,14.5,0.3000000000000007,2.11,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867060108,muslima bagum,2017-12-26,2018-10-27,14.1,14.5,0.40000000000000036,2.84,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867060123,borshon,2017-12-30,2018-01-01,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867060126,Sipul,2017-12-25,2018-10-09,13.5,14.2,0.6999999999999993,5.19,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867070007,rudro sudrodor,2017-12-21,2018-02-17,14.4,14.2,-0.20000000000000107,-1.39,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867070008,nim sudrodor,2017-12-28,2018-02-17,15.2,15.1,-0.09999999999999964,-0.66,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910867070010,mahmudul Hassan,2017-12-28,2018-02-17,14.5,14.2,-0.3000000000000007,-2.07,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867080001,sadik mia,2017-12-12,2018-10-16,13.4,15.5,2.0999999999999996,15.67,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+910867080021,disha,2017-12-20,2018-06-20,12.8,13.0,0.1999999999999993,1.56,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867080024,niha aktar,2018-05-05,2018-10-21,14.2,14.2,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910867080031,tahid hasan sami,2017-12-31,2018-06-02,14.2,14.1,-0.09999999999999964,-0.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910867080047,salman ali,2017-11-14,2018-06-26,15.4,14.4,-1.0,-6.49,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910867080056,faruq,2017-12-09,2017-12-20,13.6,13.9,0.3000000000000007,2.21,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910867080061,mahi mia,2018-03-06,2018-10-16,13.2,14.3,1.1000000000000014,8.33,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910867080078,samia bagum,2017-12-09,2018-08-18,14.6,13.4,-1.1999999999999993,-8.22,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910870010005,Jumana begum,2017-10-11,2017-11-08,13.0,13.3,0.3000000000000007,2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870010007,aaa,2017-12-26,2018-01-27,9.0,9.5,0.5,5.56,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+910870010008,Taslima begum,2017-10-11,2018-02-07,13.0,13.3,0.3000000000000007,2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870010011,shukur Ahmad,2017-11-08,2017-12-06,15.0,15.2,0.1999999999999993,1.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870010016,Sumana begum,2017-10-11,2018-02-07,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870010019,Faeja Jannat,2017-10-11,2017-12-06,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910870020003,Sadika Begum,2017-08-26,2017-12-20,13.0,13.4,0.40000000000000036,3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870020008,Rima Aktar,2017-10-25,2017-11-22,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870020011,Jumon Ahmad,2017-10-25,2017-11-22,13.1,13.1,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910870020025,Nusrat jahan,2017-10-25,2017-12-20,13.0,13.1,0.09999999999999964,0.77,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870020030,Rajiya begum,2017-10-25,2017-12-20,13.1,14.2,1.0999999999999996,8.4,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870020036,Pingky Aktar,2017-10-25,2017-11-22,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910870020047,Mustakim Ahmad,2017-10-25,2017-12-20,15.0,14.4,-0.5999999999999996,-4.0,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910870030009,Mahima begum,2017-10-18,2018-04-11,14.0,14.4,0.40000000000000036,2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870030011,Sanjida begum,2017-10-18,2017-12-16,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910870030015,Marufa begum,2017-10-18,2017-11-15,13.0,13.3,0.3000000000000007,2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870030017,Tahmina begum,2017-10-18,2018-04-11,13.0,13.1,0.09999999999999964,0.77,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040015,Sunia begum,2017-10-22,2018-04-15,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040017,Tambir hosen,2017-10-22,2017-12-17,13.0,13.3,0.3000000000000007,2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040019,Fahem Islam,2017-10-22,2017-12-17,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040020,Fahomid Islam,2017-10-22,2017-12-17,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040021,Fayija begum,2017-10-22,2017-12-17,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040024,Nafi  Ahmad,2017-10-22,2017-12-17,15.0,15.1,0.09999999999999964,0.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870040029,Giyadul. Islam,2017-10-22,2017-12-17,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040031,Sabvir Ahmad,2017-10-22,2017-12-17,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040037,Hanifa begum,2017-11-19,2018-04-15,13.0,13.1,0.09999999999999964,0.77,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040040,Tania,2017-10-22,2017-11-19,13.0,13.4,0.40000000000000036,3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040080,Mithu biswas,2017-10-22,2017-12-17,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870040083,Ditto biswas,2017-10-22,2017-12-17,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870050001,Rima begum,2017-12-13,2017-12-30,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870060001,Anisa begum,2017-11-19,2018-04-15,13.2,15.1,1.9000000000000004,14.39,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+910870060008,Antora Biswas,2017-10-22,2018-04-15,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870060012,Popy Biswas,2017-10-22,2018-04-15,14.0,16.4,2.3999999999999986,17.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910870060018,Lovely begum,2017-11-19,2018-04-15,17.3,15.5,-1.8000000000000007,-10.4,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910870060028,Saiful lslam Rahi,2017-11-19,2018-03-18,17.3,16.4,-0.9000000000000021,-5.2,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910870060060,Mahia AkhterMahi,2017-10-25,2018-03-21,15.0,17.3,2.3000000000000007,15.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870060065,Ummen Mahnur Nusrath Lntana,2018-03-21,2018-04-18,15.3,13.5,-1.8000000000000007,-11.76,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910870060097,Mahidul lslam,2017-10-29,2018-04-22,16.0,16.4,0.3999999999999986,2.5,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870060098,Saimon Ahmed Mahim,2018-01-09,2018-04-22,16.0,16.2,0.1999999999999993,1.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870060109,Rabbi Ahmed,2017-10-29,2018-04-22,15.0,15.5,0.5,3.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870060110,Khadija begum,2017-10-22,2018-04-22,15.0,15.3,0.3000000000000007,2.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870060116,Nipa begum,2017-10-29,2018-04-22,15.0,16.2,1.1999999999999993,8.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910870060123,Lisa begum,2017-10-29,2018-04-22,16.0,15.2,-0.8000000000000007,-5.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910870060124,Tasprina begum,2017-10-29,2018-03-25,14.0,15.6,1.5999999999999996,11.43,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+910870060190,Tanha jannat Taznin,2017-10-04,2018-04-25,13.0,14.2,1.1999999999999993,9.23,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080003,RUBEL MIA,2017-12-27,2018-04-25,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080004,NUSRAT Jannatt mim,2017-11-01,2018-01-03,12.6,12.0,-0.5999999999999996,-4.76,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910870080005,RAHIM HOSEN,2017-12-27,2018-01-03,13.5,13.6,0.09999999999999964,0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080006,MAMUN Hosen,2017-11-01,2018-01-03,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910870080009,SAJU AHMAD,2017-11-01,2018-01-03,14.0,14.6,0.5999999999999996,4.29,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080015,NAJEYA BEGUM,2017-11-01,2018-04-25,12.0,12.7,0.6999999999999993,5.83,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080018,ALOMGIR HOSEN,2017-11-01,2018-04-25,12.0,12.7,0.6999999999999993,5.83,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080030,RIJU AHMAD,2017-11-01,2018-04-25,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080036,MILAD AHMAD,2017-11-01,2018-04-25,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080037,KAWSAR AHMAD,2017-11-01,2018-01-03,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080039,REFATH AHMAD,2017-11-01,2018-01-03,12.7,13.0,0.3000000000000007,2.36,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080058,TANISHA BEGUM,2017-11-01,2018-04-25,13.0,14.4,1.4000000000000004,10.77,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080064,EASInG JANNAT SIDDEKA,2017-11-01,2017-12-27,13.75,14.0,0.25,1.82,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910870080065,BALAL AHMAD,2017-11-01,2017-12-27,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910870080066,FAHIM CHAUDARRY,2017-11-01,2018-04-25,13.0,13.6,0.5999999999999996,4.62,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910870100019,Sraboni,2017-12-31,2018-01-14,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910927010001,fabiha,2017-12-26,2017-12-31,12.0,13.75,1.75,14.58,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910927010002,sima,2017-12-27,2017-12-30,11.5,14.0,2.5,21.74,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910927010003,rife,2017-12-30,2017-12-31,13.0,11.5,-1.5,-11.54,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910927010006,bipasa,2017-12-27,2017-12-31,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910927010007,moni,2017-12-30,2017-12-31,11.0,14.0,3.0,27.27,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+910927010011,Bithika,2017-12-30,2017-12-31,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910927010012,rita,2017-12-18,2018-01-30,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910927080006,p,2017-10-27,2017-12-29,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+910927080036,h,2016-07-27,2018-01-01,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+910927120018,tipu,2017-11-30,2018-01-31,5.0,12.0,7.0,140.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+910927130012,t,2016-12-31,2018-12-31,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910927170138,j,2017-12-31,2018-12-31,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910964040093,shurjo chondro,2018-02-10,2018-04-07,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910964070172,sakibul hasan sani,2018-02-17,2018-04-12,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910981110009,Adiyan ahmed,2018-01-09,2018-04-03,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+910981110024,Surma begum,2018-01-09,2018-04-03,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+910981110035,Mita begum,2018-01-09,2018-03-06,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910981110059,Tajkiya jannat opa,2018-01-09,2018-03-06,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910981110084,Arif ahmed,2018-01-09,2018-04-03,17.0,15.0,-2.0,-11.76,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+910981110236,Moni begum,2018-01-09,2018-03-21,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+910981130007,Juma Begum,2018-01-06,2018-02-03,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910981130031,Junahid Ahmed,2018-01-06,2018-03-21,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+910981130052,Monju miha,2018-01-06,2018-03-21,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+910981130057,Rasel Ahmed,2018-01-06,2018-02-03,15.0,17.0,2.0,13.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+910981130063,Eyasmin Begum,2018-01-06,2018-03-21,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910981130074,Faija Begum,2018-01-06,2018-03-21,12.0,14.5,2.5,20.83,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+910981130083,Mujammil Ahmed,2018-01-06,2018-03-21,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+910981130091,Abu Bokkor Sayem,2018-01-06,2018-03-21,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711010001,Amir,2017-12-30,2017-12-31,12.0,10.0,-2.0,-16.67,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+911711010003,fg,2017-12-30,2017-12-31,10.0,5.0,-5.0,-50.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+911711010005,anika,2017-12-30,2017-12-31,12.0,5.0,-7.0,-58.33,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+911711010006,minhaj,2017-12-17,2017-12-31,12.5,8.0,-4.5,-36.0,At Risk,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+911711010012,abir,2017-11-30,2017-12-31,8.0,8.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+911711010013,mamun,2017-12-17,2017-12-30,12.5,15.0,2.5,20.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711010023,Moriom,2017-12-17,2017-12-30,12.5,12.0,-0.5,-4.0,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711030088,Muradul Ahmed,2018-05-06,2018-06-03,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911711040005,Abdul Rahman,2017-11-27,2017-12-27,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711040006,Tanha,2017-12-27,2017-12-30,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711040023,Jui,2017-12-27,2017-12-30,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711050009,Alamin Ahmed,2017-10-04,2018-10-03,12.8,14.0,1.1999999999999993,9.37,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711050013,Jamiya begum,2017-10-04,2018-01-03,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711050019,Anisa  Akter,2017-12-06,2018-01-03,13.2,14.0,0.8000000000000007,6.06,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711050023,kamil Ahmed,2017-10-04,2018-04-04,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711050034,Anika begum,2017-10-04,2018-01-06,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711050039,Tahiya begum,2017-10-04,2018-11-07,12.8,13.0,0.1999999999999993,1.56,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+911711050050,Muntaha jannat,2018-06-06,2018-11-07,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711050053,Talha ahmed,2017-10-04,2018-06-06,12.6,15.0,2.4000000000000004,19.05,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711050055,Muntaha jannat,2017-10-04,2019-02-06,12.6,14.0,1.4000000000000004,11.11,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711050064,Sanjida begum,2017-10-04,2018-04-04,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711050067,Musa siddik,2018-04-04,2018-10-03,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711050083,Ruhat Islam,2017-10-04,2018-04-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711050102,Muhin Ahmed,2017-10-04,2017-12-06,13.0,12.7,-0.3000000000000007,-2.31,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711050116,Sami Ahmed,2018-04-04,2019-04-03,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711050121,Nusrat begum,2017-10-04,2018-03-07,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711050124,Hamida begum,2017-10-04,2018-03-07,15.0,12.7,-2.3000000000000007,-15.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911711050125,Avid Ahmed,2017-10-04,2018-05-09,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711050133,Aysa begum,2017-10-04,2018-01-07,15.0,12.7,-2.3000000000000007,-15.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911711050146,Liza begum,2017-12-06,2018-10-03,13.2,13.0,-0.1999999999999993,-1.52,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711050151,Mahmud Ahmed,2017-10-04,2018-10-03,13.0,16.0,3.0,23.08,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711050153,Aysa siddika,2018-04-04,2019-09-04,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911711050160,Suva Akter,2017-10-04,2018-05-09,12.6,13.0,0.40000000000000036,3.17,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+911711050168,Tanisa begum,2017-12-06,2018-10-03,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711060002,rumi,2017-12-31,2018-01-31,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711060022,Ariyan,2018-01-07,2018-03-04,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711060023,Marjan,2018-01-07,2018-04-01,17.0,18.0,1.0,5.88,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+911711060030,Anisa,2018-01-07,2018-04-01,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711060053,Ribbe,2018-01-07,2018-04-01,14.0,16.0,2.0,14.29,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711060066,Tanha,2018-01-07,2018-04-01,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711070042,Afrida Begum,2017-10-09,2017-12-30,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911711080001,Aksanul Haq,2017-10-22,2018-08-26,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711080022,Omi Akter,2017-10-22,2018-08-26,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711080026,Rimpi Rani day,2017-10-22,2018-05-27,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+911711080027,Adi Deb,2017-11-26,2017-12-24,14.0,12.8,-1.1999999999999993,-8.57,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711080034,Tanjina begum,2017-10-22,2018-04-22,12.6,12.0,-0.5999999999999996,-4.76,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711080045,Rahi islam,2017-10-22,2018-02-25,14.0,12.4,-1.5999999999999996,-11.43,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711110016,Rahim,2018-12-12,2019-08-14,13.0,15.2,2.1999999999999993,16.92,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711110021,Mahmud,2018-01-10,2019-04-10,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711110022,Habiba,2018-01-10,2018-04-12,17.0,18.0,1.0,5.88,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+911711110024,Bushra,2018-01-10,2018-04-11,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711110025,Taiba,2018-01-10,2018-03-14,17.0,18.0,1.0,5.88,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+911711110029,Chadni,2018-01-10,2018-04-11,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+911711110034,Fatima,2018-12-12,2019-09-11,13.0,14.8,1.8000000000000007,13.85,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711110042,Sahid,2018-11-14,2019-10-16,13.0,15.1,2.0999999999999996,16.15,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711110049,Afruja,2018-01-10,2018-04-11,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911711110051,Maisa,2018-01-10,2019-04-10,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+911711150002,Ummama  Jannat,2017-10-25,2017-11-22,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711150008,Arif Ahmed,2017-10-25,2018-07-25,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911711150009,Radikul Islam,2017-10-25,2018-10-24,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+911711150027,Tanha Akter,2017-10-25,2017-12-27,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911711150031,Rahim Ahmed,2017-10-25,2018-07-25,12.5,13.0,0.5,4.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+911711150033,Arapat Husen,2017-10-25,2018-10-24,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+911711150037,Suhan Ahmed,2017-10-25,2018-02-28,15.0,12.7,-2.3000000000000007,-15.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+911751010006,samim,2017-12-31,2018-12-31,13.7,13.5,-0.1999999999999993,-1.46,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+911751010012,Roni,2017-12-18,2018-01-01,15.0,8.0,-7.0,-46.67,Good,Severe,Condition Deteriorated,Healthy,High Risk,Moved to Worse Group,Deteriorated
+911751010035,tanisha,2017-12-31,2018-07-21,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+911751050073,rahim,2017-12-31,2018-03-24,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911751080006,Trisna rani,2018-06-22,2018-10-16,13.5,14.7,1.1999999999999993,8.89,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+911751110019,mera,2018-01-06,2018-04-07,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021010001,abid,2017-11-29,2017-12-31,25.0,5.0,-20.0,-80.0,Good,Severe,Condition Deteriorated,Healthy,High Risk,Moved to Worse Group,Deteriorated
+912021010003,p,2017-12-31,2018-01-01,20.0,10.0,-10.0,-50.0,Good,Severe,Condition Deteriorated,Healthy,High Risk,Moved to Worse Group,Deteriorated
+912021010008,G,2017-12-17,2018-01-08,12.5,12.74,0.2400000000000002,1.92,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021010009,popy,2017-12-21,2017-12-31,14.0,5.0,-9.0,-64.29,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+912021010012,tania,2017-12-19,2018-02-28,11.0,30.0,19.0,172.73,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+912021010013,raju,2017-12-11,2018-01-01,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021010022,lily,2017-12-21,2018-01-01,13.55,25.0,11.45,84.5,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021010023,raju,2018-01-04,2018-04-28,18.0,30.0,12.0,66.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+912021010024,aria,2017-12-11,2017-12-20,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021020013,samya,2017-12-04,2018-11-08,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021020021,jakarya,2017-02-04,2018-02-05,14.5,14.0,-0.5,-3.45,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021020022,samya,2018-02-05,2018-11-08,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021020027,tayba,2018-01-01,2018-02-05,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021030007,humayn,2017-12-21,2018-05-03,14.0,14.1,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021030013,habiba,2017-12-21,2018-07-05,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021030014,habibur,2017-12-07,2018-07-05,13.0,14.1,1.0999999999999996,8.46,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021030027,aybur,2017-12-21,2018-07-05,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021040020,radoan,2017-12-21,2018-02-26,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021040021,rafi,2018-03-27,2018-12-24,15.8,14.7,-1.1000000000000014,-6.96,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+912021040028,ahia,2018-02-26,2018-12-24,14.0,13.8,-0.1999999999999993,-1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021040029,mim,2018-02-26,2018-12-24,12.6,13.3,0.7000000000000011,5.56,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021040035,aysha,2017-12-21,2018-05-27,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021040048,tamim,2017-06-29,2018-04-24,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021040080,mukadir,2018-04-24,2018-10-22,12.8,12.7,-0.10000000000000142,-0.78,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021050002,kalu,2017-12-20,2018-01-20,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021050011,sajol,2017-12-18,2018-03-19,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021050012,sabbir,2017-10-16,2018-10-15,13.5,13.4,-0.09999999999999964,-0.74,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021050022,nahid,2017-12-18,2018-02-17,13.0,15.5,2.5,19.23,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021050027,karia,2018-02-17,2018-10-15,13.0,12.6,-0.40000000000000036,-3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021050028,sayd,2018-02-17,2018-10-15,12.5,13.2,0.6999999999999993,5.6,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021050040,najmul,2017-10-16,2018-08-20,14.5,13.8,-0.6999999999999993,-4.83,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021050043,mahmuda,2017-12-18,2018-04-16,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021050057,dip,2017-12-18,2018-10-15,13.0,13.4,0.40000000000000036,3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021050065,mariya,2018-07-16,2018-08-20,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+912021050066,minha,2017-10-16,2018-10-15,16.0,13.1,-2.9000000000000004,-18.13,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912021060001,asif,2017-12-31,2018-07-04,25.0,30.0,5.0,20.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+912021070005,Emu,2017-11-16,2018-03-28,13.5,14.15,0.6500000000000004,4.81,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021070007,hamida,2017-11-27,2018-03-28,13.5,15.0,1.5,11.11,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021070013,mujahid,2017-11-27,2018-12-24,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912021080003,lima,2017-11-16,2018-12-20,15.5,14.5,-1.0,-6.45,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912021080004,sabbir,2017-11-16,2018-10-21,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021080005,Eushup,2017-11-16,2018-02-15,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021080028,tammi,2017-11-16,2018-08-16,14.5,13.0,-1.5,-10.34,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021080029,safikul,2017-11-16,2018-09-20,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+912021090006,abida,2017-05-26,2018-10-25,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021090010,abid,2017-04-17,2018-01-25,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021090013,topu,2017-04-17,2018-02-12,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021090014,rabbi,2017-04-17,2018-03-27,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021090018,sanjida,2017-11-23,2018-01-23,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+912021090038,nafij,2017-11-23,2018-08-30,13.5,14.0,0.5,3.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021090048,mahabub,2017-11-23,2018-04-27,16.0,14.5,-1.5,-9.38,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912021090050,fariha,2018-04-27,2018-12-27,13.5,14.0,0.5,3.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021090051,taiba,2017-05-26,2018-10-25,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912021100006,minhajul,2017-11-27,2018-10-22,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021100007,mahin,2017-01-22,2018-02-26,15.0,15.3,0.3000000000000007,2.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+912021100008,mahisha,2017-12-26,2018-10-22,15.0,15.5,0.5,3.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+912021100026,Amina,2018-07-26,2018-10-22,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912021100027,Jaman,2017-11-21,2017-12-21,14.4,11.5,-2.9000000000000004,-20.14,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912021100032,kushum,2017-05-26,2018-06-25,13.5,14.0,0.5,3.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021130004,Tahmid,2017-11-21,2018-01-21,13.5,14.5,1.0,7.41,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021150009,tahamid,2017-03-19,2017-12-07,12.5,13.4,0.9000000000000004,7.2,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912021150013,joy,2017-12-21,2018-01-21,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021150021,mamun,2017-01-18,2017-08-10,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+912021150029,mamun,2017-03-19,2017-06-01,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021150030,ripon,2017-03-19,2018-08-02,14.0,17.3,3.3000000000000007,23.57,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912021160001,habib,2018-01-02,2018-01-31,30.0,30.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+912021160017,mona,2017-12-21,2018-01-01,13.2,14.5,1.3000000000000007,9.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912021160039,Tahima,2017-02-18,2018-02-01,17.5,14.1,-3.4000000000000004,-19.43,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912021170043,niha,2017-12-21,2018-09-10,14.3,14.2,-0.10000000000000142,-0.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912031010001,Arnob,2017-12-17,2017-12-19,13.5,13.0,-0.5,-3.7,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+912031010003,Rahim,2017-12-17,2017-12-18,13.0,9.0,-4.0,-30.77,At Risk,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+912031010005,JABAD,2017-12-16,2017-12-18,11.5,12.1,0.5999999999999996,5.22,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912031010012,Midula,2017-12-17,2017-12-19,9.0,11.0,2.0,22.22,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+912031010019,Kasem,2017-12-17,2017-12-18,10.5,8.0,-2.5,-23.81,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+912031010022,hfzghjgxgjx,2017-12-17,2017-12-19,12.0,11.0,-1.0,-8.33,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+912031010025,JOY,2017-11-18,2017-12-19,12.8,13.0,0.1999999999999993,1.56,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912031010030,Romana Begum,2017-12-17,2017-12-18,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+912031010078,Harun,2017-12-17,2017-12-18,10.06,11.9,1.8399999999999999,18.29,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+912031010080,Naim,2017-12-18,2017-12-31,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912031020004,suma,2017-06-12,2018-02-12,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912031020013,mistakin,2018-01-04,2018-01-08,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031020021,Sayma,2017-07-10,2017-10-09,16.0,15.0,-1.0,-6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+912031070056,All amin,2017-11-16,2018-01-18,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912031120017,anamul,2017-11-21,2018-03-18,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031120022,safuyan,2016-05-09,2018-02-24,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031120023,hacna,2017-07-21,2017-11-21,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031120024,jaber,2017-06-19,2017-12-16,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031130035,habibur,2017-05-10,2018-02-12,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031130036,mariya,2017-05-10,2018-04-09,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031130040,farhan,2017-08-08,2017-12-11,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912031130067,siyam,2017-05-10,2018-04-09,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031140002,Maria,2018-03-12,2018-12-10,13.4,13.8,0.40000000000000036,2.99,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912031140003,Rifat,2017-11-14,2018-02-12,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912031140018,Masuma,2017-12-11,2018-12-10,11.0,14.5,3.5,31.82,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+912042010001,sumi,2017-11-21,2017-12-21,12.0,12.5,0.5,4.17,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912042120028,shilpi,2017-12-31,2018-03-28,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+912042150015,Miraj,2017-09-20,2018-04-18,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912042160008,Majan,2017-12-30,2018-01-01,12.0,19.0,7.0,58.33,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+912073030201,tahmid,2017-08-09,2017-12-13,16.0,15.0,-1.0,-6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+912073030207,fatema,2017-11-08,2018-03-14,12.0,12.4,0.40000000000000036,3.33,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912073030213,rakma,2017-11-08,2017-12-13,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912073030231,hasan,2017-08-09,2018-03-14,13.0,13.9,0.9000000000000004,6.92,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912073030264,munni,2017-12-13,2018-03-14,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+912073080029,maisha,2017-12-30,2018-02-25,14.0,15.5,1.5,10.71,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912073100036,raha,2017-12-30,2018-01-27,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+912073170020,mahdi,2017-08-09,2018-04-11,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912073240074,hafiza,2017-11-22,2018-02-28,12.0,13.9,1.9000000000000004,15.83,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912073280027,tanjina,2017-08-02,2017-12-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912073290005,TAmim,2018-02-04,2018-04-01,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912073290008,Jamiya,2017-12-03,2018-04-01,11.0,13.0,2.0,18.18,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+912073290016,Nilima,2018-02-04,2018-04-01,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912073290020,imran,2017-12-30,2018-01-03,10.0,14.0,4.0,40.0,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+912073290053,Fahmida,2017-10-08,2018-02-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+912717010002,badrun,2017-12-17,2017-12-30,13.2,15.0,1.8000000000000007,13.64,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+912717140013,juma,2017-12-30,2018-03-29,12.6,13.0,0.40000000000000036,3.17,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912771010085,Lilu,2017-12-18,2018-01-20,15.0,12.5,-2.5,-16.67,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+912771020023,Jabed Ahmed,2017-09-20,2017-12-20,13.9,14.3,0.40000000000000036,2.88,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+912771080013,tamana,2017-06-09,2017-12-30,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+912771100032,rohim,2017-12-06,2018-01-15,14.2,13.6,-0.5999999999999996,-4.23,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150010010,taslima begum,2017-11-04,2018-08-04,13.0,15.2,2.1999999999999993,16.92,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150010012,maisah aktar,2018-02-03,2018-08-04,13.5,14.5,1.0,7.41,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150010017,suma aktar taiba,2017-10-07,2018-07-07,14.5,14.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150010018,tahmed Ahmed,2017-10-07,2017-11-04,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150010020,taklima begum,2017-10-07,2018-02-03,12.5,13.5,1.0,8.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150010047,kadhija aktar,2017-10-07,2018-05-05,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150010064,saymon ahmed,2017-10-07,2018-09-08,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150020003,mahdi hasan,2017-12-09,2018-10-13,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150020007,juniya jahan mim,2017-10-14,2019-01-12,12.5,15.0,2.5,20.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150020013,somor ali,2017-10-07,2018-03-03,11.0,13.5,2.5,22.73,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+913150020016,mahima aktar,2017-10-07,2018-10-06,13.0,15.2,2.1999999999999993,16.92,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150020029,suniya aktar,2017-11-04,2017-12-02,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150020032,tanisa aktar,2017-10-07,2017-12-02,13.5,13.0,-0.5,-3.7,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150020047,mahdi begum,2017-10-07,2018-10-06,12.5,13.5,1.0,8.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150020050,kulsoma jannat,2018-07-07,2018-08-04,15.1,15.2,0.09999999999999964,0.66,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150020057,husain Ahmed,2017-11-04,2018-10-06,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150020059,tahiya aktar,2018-04-07,2019-08-03,12.5,13.0,0.5,4.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150030022,sofor ali,2017-10-07,2018-01-10,12.0,12.5,0.5,4.17,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150030031,ajim,2018-07-07,2019-01-05,15.0,15.5,0.5,3.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150030038,amin kahn,2017-10-07,2017-11-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150030048,tanha,2017-11-04,2019-01-05,13.0,14.2,1.1999999999999993,9.23,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150030064,husneyara,2018-07-07,2018-08-11,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150040018,samiya,2017-10-24,2018-06-26,13.0,14.5,1.5,11.54,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150040025,aysa begum,2017-10-24,2018-06-26,15.0,15.5,0.5,3.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150070009,yasen hasan mahim,2017-10-14,2018-07-09,14.5,15.2,0.6999999999999993,4.83,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150070016,kadhija begum,2017-10-14,2018-01-13,13.5,14.0,0.5,3.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150080001,esrat jahan sumaiya,2017-10-22,2018-01-09,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150080007,abdul ahad,2017-10-22,2018-07-12,13.0,13.4,0.40000000000000036,3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150080012,naiem ali,2017-10-22,2018-01-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150080019,tasniya aktar,2017-10-22,2018-08-14,13.5,14.2,0.6999999999999993,5.19,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150080021,kadija nusrat,2017-10-22,2018-04-10,13.5,14.0,0.5,3.7,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150090003,arafat islam radi,2017-11-19,2018-05-15,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150090007,ruhan ahmad,2017-12-31,2018-05-15,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150090010,jesan mubarok,2017-11-19,2017-12-12,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150090012,maruf ahmed,2017-11-19,2018-10-09,12.5,13.0,0.5,4.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150090014,sabeur rahman,2017-10-22,2017-11-19,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150090016,jakiya hasan niha,2017-10-22,2018-01-09,13.5,14.5,1.0,7.41,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150090031,nadiya begum,2017-11-19,2018-03-13,15.0,15.5,0.5,3.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150100004,fahmida aktar mim,2017-11-18,2018-01-06,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150100008,mahbuba aktar,2017-10-21,2018-02-17,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+913150100019,kibriya Hussein,2017-10-21,2018-03-19,12.5,14.5,2.0,16.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150100023,eva begum,2017-11-18,2018-09-22,13.5,14.2,0.6999999999999993,5.19,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150150051,samad,2017-10-21,2017-12-18,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150150099,sajim ahamed,2017-10-21,2017-12-18,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150160032,mehedi,2018-01-29,2018-05-29,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150190006,Anika jannat,2017-10-14,2018-05-12,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150190010,sadiya akter maisha,2018-01-13,2018-05-12,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150200008,Ahsan Hussain Rahi,2017-10-14,2018-05-12,16.0,17.0,1.0,6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150200024,maisha begum,2017-10-14,2018-04-12,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150200025,Rafi miah,2017-10-14,2018-02-10,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150200026,shanjida yeasmin,2017-10-14,2017-12-09,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150260010,radun ahmed,2018-01-03,2018-02-06,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150260015,mim,2017-12-05,2018-02-06,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150260029,Sani,2018-01-03,2018-02-06,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150270028,nahid Hussain,2017-11-18,2018-04-21,17.0,17.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150270037,Ovihajat,2017-10-21,2018-01-20,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150270048,khadija begum,2017-10-21,2018-03-19,17.0,17.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150270055,farhan miah,2017-12-18,2018-03-19,16.0,18.0,2.0,12.5,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150270066,tuhin Khan,2017-10-21,2018-03-19,17.0,18.0,1.0,5.88,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+913150270072,Ariyan ali,2017-11-18,2019-03-16,17.0,15.0,-2.0,-11.76,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+913150270074,saif miah,2018-03-19,2019-07-20,13.0,15.8,2.8000000000000007,21.54,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150280004,Sami Ahmed,2018-03-20,2018-04-17,14.0,14.5,0.5,3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150280011,tawhida begum,2017-10-19,2018-04-17,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150280012,Rafsal miah,2018-03-20,2019-08-20,15.0,14.9,-0.09999999999999964,-0.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+913150280013,Jahid miah,2017-10-19,2018-03-20,14.0,16.0,2.0,14.29,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150280016,hamida begum,2017-10-19,2018-04-17,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150280022,tanisha begum,2017-10-19,2017-12-19,12.5,13.0,0.5,4.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913150280025,Masuma akter,2017-11-21,2018-04-17,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150280032,Tawhida begum,2017-12-19,2019-05-21,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150280044,kamil Hussain,2018-03-20,2018-04-17,15.0,14.5,-0.5,-3.33,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+913150280046,Hussain Ahmed syam,2018-03-20,2018-04-17,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150280050,shiblu miah,2017-10-19,2017-12-19,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150290003,Fahmida begum,2018-03-13,2018-05-15,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150290005,Safwan  Ahmed,2017-10-10,2018-05-15,13.5,16.0,2.5,18.52,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150300002,Saim Ahmed,2017-11-14,2018-05-15,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150300010,Jannat begum,2018-03-19,2019-08-17,14.0,13.7,-0.3000000000000007,-2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913150310004,Hamida begum,2017-11-14,2018-03-13,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150390005,taiba,2018-01-03,2019-02-05,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+913150410004,rodro debonat,2017-10-07,2018-07-07,12.5,15.2,2.6999999999999993,21.6,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150410012,obi debonat,2017-10-07,2018-08-11,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913150430005,Nasima jahan,2017-10-14,2018-04-12,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150430010,Tahera akter shanjida,2017-12-09,2018-02-10,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150450067,sahid ali,2017-11-25,2018-01-28,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+913150450068,Tanisa tasnim,2017-11-25,2017-12-23,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150460007,nihima jannat,2017-10-28,2018-01-30,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+913150460009,erama begum,2017-10-28,2018-01-30,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150460011,jihad,2017-11-25,2018-01-10,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150480006,munni begum,2018-01-02,2018-06-05,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150480012,roki,2018-06-05,2018-10-02,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913150480038,jahid,2018-01-02,2018-10-02,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913150480039,fhamid,2018-01-02,2018-10-02,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+913150480044,roki,2018-01-02,2018-07-03,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150480052,shuag,2018-01-02,2018-06-05,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913150490030,rakib ahmed,2017-10-17,2018-02-20,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160030007,mahid ahmad,2018-01-17,2018-02-22,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913160030008,shawon,2018-01-17,2018-04-28,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160030011,shani,2018-01-17,2018-03-22,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913160030043,raisha,2018-01-17,2018-03-22,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160030104,kadiza akthar,2018-01-17,2018-04-28,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913160030115,tanisha jannat niha,2018-01-17,2018-09-19,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913160030123,tanha,2018-01-17,2019-02-20,13.5,13.9,0.40000000000000036,2.96,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913160120004,Mahmud alom nijam,2018-03-11,2018-08-12,16.0,15.6,-0.40000000000000036,-2.5,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+913160120033,Jahid hasan,2018-03-11,2018-08-12,14.0,14.6,0.5999999999999996,4.29,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913160120034,Raiyan ahmod,2018-04-08,2018-08-12,13.0,14.1,1.0999999999999996,8.46,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913160120039,Abu sufiyan,2018-04-08,2019-09-15,13.0,13.9,0.9000000000000004,6.92,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913160180009,Nahid Islam,2018-01-16,2018-04-08,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913160190012,Nusrat Ahmed,2017-12-30,2018-01-16,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160190023,Prionti Das,2018-01-16,2018-04-08,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160200004,Eba Begum,2018-01-14,2018-05-06,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160280016,tahmida akter,2017-11-11,2018-03-07,14.0,13.5,-0.5,-3.57,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913160340031,Tanim,2018-01-10,2018-09-05,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913160340039,Rasheda,2018-01-10,2018-06-06,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913160340040,Kebria,2018-01-10,2018-07-04,14.0,13.07,-0.9299999999999997,-6.64,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913160340046,Mahfujur rohman,2018-01-10,2018-05-09,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913160340060,Humayra,2018-01-10,2018-10-03,14.0,14.9,0.9000000000000004,6.43,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913160350008,Foujiya jannat lisa,2018-01-17,2018-05-13,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913160370041,Habiba,2018-01-14,2018-05-06,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913160370057,Rihadul,2018-01-14,2018-04-01,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913571010001,dib,2017-12-19,2018-01-20,10.0,11.0,1.0,10.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+913571010012,mine,2017-12-18,2018-02-20,12.5,12.5,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913571010023,onik biswas,2017-12-31,2018-01-03,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913571010034,redoy biswas,2018-01-03,2018-03-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913571010036,rumi biswas,2018-01-03,2018-03-04,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913571110031,fahmida,2016-11-17,2018-01-07,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913836010001,NIROB,2018-02-08,2018-04-09,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913836010003,ABID,2017-12-31,2018-01-01,9.0,11.0,2.0,22.22,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+913836010005,LEMON,2017-12-31,2018-01-03,12.75,11.5,-1.25,-9.8,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913836010006,T,2017-12-31,2018-01-05,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913836010008,Joni,2017-12-18,2017-12-31,12.0,8.75,-3.25,-27.08,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+913836010009,SAMIM,2018-02-08,2018-04-09,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913836010010,GUNAYD,2017-10-08,2018-04-09,11.5,14.0,2.5,21.74,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836010012,Ahbul,2017-12-18,2017-12-31,12.0,12.8,0.8000000000000007,6.67,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836010014,raht,2017-12-18,2018-05-28,11.5,12.0,0.5,4.35,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913836010021,LOBA,2017-06-30,2017-12-20,11.5,12.0,0.5,4.35,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+913836010022,MONI,2017-11-30,2017-12-31,11.5,9.0,-2.5,-21.74,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+913836010023,Rafi,2017-12-22,2017-12-31,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913836010025,BABUL,2017-12-18,2017-12-31,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836010026,RABBI,2017-12-31,2018-02-08,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+913836010041,Aysa,2017-12-24,2017-12-30,12.0,18.0,6.0,50.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913836010044,Jisan,2017-12-29,2017-12-31,11.5,9.0,-2.5,-21.74,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+913836010048,SAKIBUL,2018-02-08,2018-04-09,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+913836010063,OBI,2017-12-30,2018-01-01,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836010091,MASUM,2018-03-08,2018-04-12,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+913836020001,nusrat jahan,2017-12-31,2018-03-15,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+913836020155,Surjo,2018-02-19,2018-04-19,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836030001,ARIF,2018-02-05,2018-04-05,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836030012,ABDULA,2018-02-05,2018-03-05,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836030031,TACLIMA,2018-02-05,2018-03-05,12.0,12.7,0.6999999999999993,5.83,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+913836030078,SUYTI,2018-03-05,2018-04-05,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+913836080033,Raima,2017-12-31,2018-03-08,14.0,15.5,1.5,10.71,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+913836090117,Afsar hussain,2018-02-01,2018-03-06,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+913836090134,Rafi bin alim,2017-12-04,2018-03-06,15.0,17.0,2.0,13.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+914121010058,sagor,2017-12-18,2019-01-20,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+914121050046,tanisa,2016-12-28,2017-05-26,15.6,16.0,0.40000000000000036,2.56,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+914121100124,mahin,2017-04-24,2018-02-28,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914121110008,naim,2017-12-22,2018-03-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914121110009,Arian,2018-01-17,2018-03-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914121130017,ruma,2018-01-17,2018-03-13,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914121180002,হোজেফা সাদি,2018-01-14,2018-05-13,14.8,15.0,0.1999999999999993,1.35,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+914121180018,তাসসিম,2017-12-10,2018-10-14,15.6,17.2,1.5999999999999996,10.26,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+914121180023,ফাহমিদা ইয়াসমিন,2017-02-20,2018-05-13,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914121180031,আনিসা,2018-01-14,2018-03-08,16.4,16.3,-0.09999999999999787,-0.61,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+914121180067,রেজোয়ান,2018-01-14,2018-10-14,15.0,16.6,1.6000000000000014,10.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+914121180069,ইয়াসিন আরফাত,2018-01-14,2018-09-23,16.2,15.5,-0.6999999999999993,-4.32,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+914121200045,Masruf,2018-01-17,2018-03-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914121200056,Rafiul,2018-01-17,2018-03-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914131130042,asraful,2017-12-21,2018-08-12,14.5,13.0,-1.5,-10.34,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914142090002,salman,2018-01-14,2018-02-01,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914142090037,Eyakub,2018-01-14,2018-02-01,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914142090046,abdullah,2018-02-01,2018-04-05,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914142200021,alamin,2017-12-27,2017-12-28,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163010022,Hossin,2017-12-18,2017-12-27,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163010023,hajera,2017-12-18,2018-07-26,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+914163010033,nusrat,2017-12-18,2018-07-26,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163010046,yeasin,2017-12-24,2018-07-26,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163010048,mahiya,2017-12-18,2018-06-25,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163010061,moriom,2017-12-18,2018-06-25,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163010071,Abdula,2017-12-18,2018-07-26,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163010082,yeasin,2017-12-21,2018-09-27,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163010128,Rahim,2017-12-18,2018-05-09,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163010157,salma,2017-12-21,2018-11-26,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163010158,sunjida,2017-12-18,2018-03-31,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163020040,jihad,2017-12-18,2018-03-14,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163020067,Aysha,2017-12-17,2018-05-14,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163020100,Durjoy,2018-01-11,2018-02-12,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163020165,arina,2018-06-07,2018-12-21,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163020177,Habiba,2017-12-24,2018-07-16,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+914163020184,Humaira Sakha,2018-02-25,2018-06-07,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+914163060004,Sahida,2017-12-18,2018-09-22,13.5,15.5,2.0,14.81,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163060005,Rumana,2017-12-18,2018-09-22,18.5,15.5,-3.0,-16.22,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+914163060009,Riahd,2017-12-18,2018-04-25,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163060023,Aydul Islam,2017-12-24,2018-06-25,11.0,13.0,2.0,18.18,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+914163060031,Dibokkor,2018-04-26,2018-09-22,14.5,15.0,0.5,3.45,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163060043,Chadni,2018-04-26,2018-09-22,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163060044,sebok,2017-12-24,2018-09-22,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163060046,toma rani,2017-12-18,2018-09-22,12.5,15.5,3.0,24.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163100030,lima akter,2017-12-04,2018-04-02,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163100055,mili begum,2017-12-04,2018-06-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163100058,lija,2017-12-04,2018-05-09,13.7,14.0,0.3000000000000007,2.19,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100066,tajrian,2017-12-04,2018-04-02,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914163100077,tahia,2017-12-04,2018-07-04,13.6,13.0,-0.5999999999999996,-4.41,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163100080,hifjur,2017-12-04,2018-05-09,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100083,mujahid,2017-12-04,2018-07-02,14.4,14.0,-0.40000000000000036,-2.78,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163100092,naima,2017-12-04,2018-06-04,13.7,14.0,0.3000000000000007,2.19,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100103,ujjol,2017-12-04,2018-04-02,13.0,13.8,0.8000000000000007,6.15,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100111,poly rani,2017-12-04,2018-07-02,13.6,13.0,-0.5999999999999996,-4.41,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163100157,samia,2017-12-07,2018-07-04,12.6,13.0,0.40000000000000036,3.17,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100162,said,2017-12-07,2018-04-05,13.0,13.6,0.5999999999999996,4.62,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100173,mijan,2017-12-07,2018-07-04,12.6,13.0,0.40000000000000036,3.17,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100174,munni,2017-12-07,2018-07-04,14.2,14.0,-0.1999999999999993,-1.41,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163100178,robbani,2017-12-07,2018-07-04,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914163100182,rezaul korim,2017-12-04,2018-07-04,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163100187,suhan,2018-05-07,2018-07-04,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914163100200,mujahid,2017-12-07,2018-06-04,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914163120065,tuhin,2017-12-21,2018-04-26,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914184010114,fahim ahmed,2018-05-17,2018-07-19,14.0,16.0,2.0,14.29,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914184010140,habiba,2018-01-18,2019-06-20,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914184010144,sidratul muntaha,2018-05-21,2018-07-16,17.0,17.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+914184010146,rubama,2018-07-16,2019-04-15,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184010174,farajana,2018-05-21,2018-07-16,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914184010177,Hafijur rohman,2018-05-21,2018-07-16,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+914184010181,labib ahmed,2018-05-21,2018-07-16,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+914184010187,simu akther,2018-05-21,2018-06-25,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914184010188,mahfujur rohman,2018-05-21,2018-07-16,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914184010198,fariya,2018-05-21,2018-06-25,16.0,15.0,-1.0,-6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+914184010219,ikbal,2018-05-21,2018-06-25,14.5,14.0,-0.5,-3.45,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184030016,fahima,2017-12-15,2017-12-27,10.0,12.0,2.0,20.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+914184100044,rohema,2017-09-27,2017-10-23,14.3,14.3,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+914184100128,fatema,2017-10-24,2018-10-28,14.3,14.5,0.1999999999999993,1.4,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914184110002,anjuman,2017-12-30,2017-12-31,14.5,12.5,-2.0,-13.79,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184110077,ফাহিম,2018-01-04,2018-04-07,12.1,13.2,1.0999999999999996,9.09,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914184110111,মাসুরা,2018-01-10,2018-06-07,16.3,13.5,-2.8000000000000007,-17.18,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+914184110118,রিমা,2018-01-11,2018-05-07,14.1,14.2,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914184110133,মাহিয়া,2017-12-30,2018-03-30,15.2,13.2,-2.0,-13.16,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+914184110134,মিম,2018-01-11,2018-05-07,12.0,13.2,1.1999999999999993,10.0,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+914184110137,সাকিবুল,2018-01-10,2018-05-07,14.5,14.1,-0.40000000000000036,-2.76,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184110149,রামিম,2018-01-11,2018-05-07,13.5,14.2,0.6999999999999993,5.19,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+914184110150,জাকির,2018-01-10,2018-05-07,14.1,13.0,-1.0999999999999996,-7.8,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184110151,ফাইমা,2018-01-11,2018-05-03,13.5,13.2,-0.3000000000000007,-2.22,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184110165,নাফিজা,2018-01-10,2018-03-30,14.1,15.1,1.0,7.09,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+914184110173,সিয়াম,2018-01-10,2018-03-30,14.5,13.0,-1.5,-10.34,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+914184190030,sabina,2016-12-31,2017-12-31,13.2,12.5,-0.6999999999999993,-5.3,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915363170009,fatima,2018-04-26,2018-10-25,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915363170010,ruhama,2018-02-22,2018-10-25,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915363280012,mohan,2017-12-31,2018-07-05,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915919010001,masuma,2017-12-29,2018-01-03,12.0,8.0,-4.0,-33.33,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+915919010003,manna,2017-12-18,2017-12-31,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915919010004,abid,2017-12-30,2017-12-31,15.0,10.0,-5.0,-33.33,Good,Severe,Condition Deteriorated,Healthy,High Risk,Moved to Worse Group,Deteriorated
+915919010005,jahin,2017-12-21,2017-12-31,25.0,13.0,-12.0,-48.0,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915919010006,moni,2017-12-18,2017-12-22,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915919010008,rrr,2017-12-17,2017-12-31,11.0,17.5,6.5,59.09,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+915919010010,imon,2017-06-28,2017-12-31,14.0,8.0,-6.0,-42.86,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+915919010016,maha,2017-12-21,2018-01-22,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915919040008,kobir ahmod,2017-12-21,2017-12-23,12.0,9.0,-3.0,-25.0,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+915919040036,hanifa katun,2017-12-21,2017-12-23,13.5,12.0,-1.5,-11.11,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915919040063,maha,2017-12-21,2017-12-23,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915919080029,fatema,2018-03-22,2018-07-12,13.5,13.8,0.3000000000000007,2.22,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+915919080035,maroya,2018-03-22,2018-09-13,12.2,12.6,0.40000000000000036,3.28,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915919100005,tisha,2018-04-12,2019-03-14,13.8,13.1,-0.7000000000000011,-5.07,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915919100006,riha,2018-04-12,2019-03-14,11.9,12.9,1.0,8.4,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915938010002,opu,2017-12-21,2017-12-31,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938010018,nusrat,2017-12-23,2018-01-01,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915938010027,rahat,2017-04-11,2018-01-01,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938010053,afifa,2017-04-17,2018-01-01,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938010055,nafisa,2017-12-21,2018-01-01,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938010078,samian,2017-04-12,2018-01-01,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938010126,saju,2017-04-17,2018-01-01,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938020091,fatima,2018-01-04,2018-02-05,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938020103,salim,2018-01-04,2018-02-01,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+915938020117,rafi,2018-01-04,2018-04-05,15.0,14.0,-1.0,-6.67,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915938030001,rihan,2017-12-14,2018-01-11,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938030007,ruhuma,2018-01-11,2018-03-11,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938030029,rafi,2017-12-31,2018-03-11,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938030058,tanjila,2017-01-14,2018-04-17,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938030071,ruman,2018-01-11,2018-04-17,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938030079,maha,2017-12-24,2018-03-11,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915938030080,sadek,2017-12-14,2018-04-17,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938030081,tisa,2017-12-14,2018-01-11,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938030090,navila,2017-12-01,2018-03-11,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938030092,rabia,2017-12-14,2018-03-11,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938030095,fatima,2017-12-14,2018-04-17,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938030096,rabbani,2017-12-14,2018-02-11,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938030119,mahia,2016-08-13,2018-04-17,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938040019,tania,2018-01-15,2018-02-19,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915938040020,masoum,2018-01-15,2018-03-19,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938040033,hafruja,2018-01-15,2018-02-19,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938040058,shame,2018-01-15,2018-04-16,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938040064,abjig,2018-01-15,2018-02-19,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938040066,nabia,2018-01-15,2018-03-19,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938040084,tamina,2018-01-15,2018-04-16,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938040087,saju,2018-01-15,2018-08-20,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915938040092,alom,2018-01-15,2018-04-16,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915938050012,abbes,2018-01-11,2018-03-14,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915938050014,maher,2017-12-14,2018-03-14,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938050021,shultan,2018-01-11,2018-07-11,16.0,13.0,-3.0,-18.75,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915938050035,hamjala,2017-12-14,2018-02-09,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938050059,anisa,2018-01-11,2018-03-14,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938050062,jisan,2018-01-11,2018-04-12,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938050074,mahia,2017-11-14,2018-04-12,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915938050076,samia,2018-01-11,2018-02-09,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938050081,talha,2018-01-11,2018-04-12,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938050083,shukria,2018-01-11,2018-04-12,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938060021,jakia,2018-01-11,2018-03-14,11.0,12.0,1.0,9.09,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915938060022,tamana,2018-01-11,2018-04-12,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915938150031,bell,2018-02-22,2018-09-27,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915947010001,ff,2017-12-24,2017-12-31,5.0,8.0,3.0,60.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+915947010002,Marzia,2017-12-19,2017-12-31,10.0,7.0,-3.0,-30.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Deteriorated
+915947010009,ff,2017-12-24,2017-12-31,5.0,18.0,13.0,260.0,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+915947090005,Taslima,2017-12-21,2018-01-29,10.0,12.0,2.0,20.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915947100003,kawsar,2017-12-27,2018-03-14,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915947100013,Abdur Kadir,2017-12-27,2018-03-14,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+915947100034,Tishan,2017-12-27,2018-09-22,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947100047,Diptho Das,2017-12-27,2018-04-19,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947100075,Humayun,2017-12-27,2018-04-19,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915947100077,Hamidur Rahman,2017-12-27,2018-04-19,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947110007,taslima,2017-12-21,2018-04-09,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947110056,tanvir,2017-12-21,2018-04-09,16.0,14.0,-2.0,-12.5,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915947110095,Abu Hasnat,2018-01-08,2018-04-09,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947110097,Tasnia,2017-12-21,2018-04-09,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+915947130015,Sidratul Muntaha,2017-12-27,2018-04-19,13.0,15.0,2.0,15.38,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947130018,Sadiqur Rahman,2017-12-27,2018-04-19,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915947130039,Siddiqur Rahman,2017-12-27,2018-04-19,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915947130058,Musthahidul,2017-12-27,2018-04-19,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915947130059,Taocia Tabanum,2017-12-27,2018-04-19,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915947130083,Anisha Akhter,2017-12-27,2018-02-20,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915947130086,Ehsan,2017-12-27,2018-03-14,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915947140033,simu,2017-12-21,2018-04-26,16.0,13.0,-3.0,-18.75,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915947140035,hasan,2017-12-21,2018-04-26,17.0,13.0,-4.0,-23.53,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915947140044,Janatul Ferdous,2017-12-21,2018-03-22,10.0,15.0,5.0,50.0,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+915947140051,Koli,2017-12-21,2018-04-26,9.0,13.0,4.0,44.44,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915947140087,Bidoot,2017-12-21,2017-12-28,10.0,13.0,3.0,30.0,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915947140093,limon,2017-12-21,2018-04-26,10.0,13.0,3.0,30.0,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915947140102,Pranto,2017-12-21,2018-03-22,10.0,15.0,5.0,50.0,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+915947140117,Rumana,2017-12-28,2018-04-26,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915947140127,Mizanul Korim,2017-12-28,2018-03-22,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915947140145,Al Amin,2017-12-28,2018-03-22,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915947140149,Piusi Rani,2017-12-28,2018-03-22,14.0,15.0,1.0,7.14,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+915947150001,ff,2017-12-31,2018-01-14,8.0,9.6,1.5999999999999996,20.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Improved
+915976020001,mamun,2016-12-21,2017-12-31,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915976020002,karim,2017-11-15,2017-12-31,13.0,10.0,-3.0,-23.08,At Risk,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+915976020004,raba,2017-12-24,2017-12-31,12.0,10.0,-2.0,-16.67,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+915976020026,sidratul jannat,2017-12-24,2018-03-25,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915976020030,marjan ahmed,2017-12-24,2018-03-25,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976030001,Rifad uddin shamad,2016-12-21,2018-01-14,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976030025,Tabassum jannat,2018-01-14,2018-03-11,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976030027,Nahim Uddin,2018-01-14,2018-02-11,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976050016,sumon ahmed,2018-01-14,2018-04-10,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976050029,Mustafijur Rahman,2018-01-14,2018-02-11,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915976070020,ima,2018-01-07,2018-09-05,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976070062,Ali anjod,2018-01-03,2018-04-01,12.0,11.7,-0.3000000000000007,-2.5,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915976070063,al amin,2018-01-03,2018-10-07,13.0,14.3,1.3000000000000007,10.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976070068,nishat,2018-01-03,2018-10-07,14.0,14.4,0.40000000000000036,2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+915976070075,muntaha,2018-01-03,2018-10-07,12.0,13.8,1.8000000000000007,15.0,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976070111,sakib hasan,2017-12-06,2018-03-07,15.0,12.8,-2.1999999999999993,-14.67,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915976070132,imran,2018-01-07,2018-03-07,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976070148,tahsina ifrit,2018-01-07,2018-03-07,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915976070150,tahmid hasan,2017-12-06,2018-01-07,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976070154,taiba,2018-01-07,2018-08-01,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976090002,tanisha jannat,2017-12-13,2018-10-10,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976090005,ahian,2018-01-10,2018-09-12,14.0,14.4,0.40000000000000036,2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+915976090006,nusrat jahan tuli,2017-12-13,2018-01-10,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976090009,arafat husen,2018-01-10,2018-10-10,13.0,13.4,0.40000000000000036,3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+915976090017,prosonjit ray,2018-01-10,2018-10-10,12.0,12.9,0.9000000000000004,7.5,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976090029,muntaha,2018-01-10,2018-07-11,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976130004,juma begum,2018-01-03,2018-04-04,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915976130009,shadullah,2018-01-03,2018-04-04,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976130035,Dipa rani,2018-01-03,2018-03-07,12.0,11.5,-0.5,-4.17,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915976140001,abu marjan,2017-12-27,2018-07-25,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976140016,kadijatul kubra,2017-12-27,2018-10-31,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915976140021,munni aktar,2017-12-27,2018-07-25,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+915976150007,rina,2017-12-23,2018-01-07,6.0,14.0,8.0,133.33,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+915976150027,tahmina,2018-01-07,2018-09-04,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+915976150035,juba,2018-01-07,2019-04-02,13.0,14.9,1.9000000000000004,14.62,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+915976180001,sahjaman,2017-12-27,2018-07-25,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+915976180009,raihan uddin araf,2018-07-25,2018-10-31,12.6,13.2,0.5999999999999996,4.76,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+915976230011,fahmi akther,2018-01-17,2018-10-24,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+915976240023,mirtum ray,2018-01-17,2018-09-22,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+915976280001,mahfuj ahmed,2017-12-21,2018-03-28,16.0,15.0,-1.0,-6.25,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+915976280018,nura jannat,2017-12-27,2018-03-28,15.0,16.0,1.0,6.67,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+916238010005,fahim,2017-12-17,2017-12-30,12.0,27.0,15.0,125.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238010006,famida,2017-12-30,2017-12-31,14.0,25.0,11.0,78.57,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238010008,jubaida,2017-12-11,2017-12-31,14.0,8.0,-6.0,-42.86,Good,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+916238010009,Ripa begum,2017-12-11,2017-12-30,13.0,19.5,6.5,50.0,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238010010,arif,2017-12-11,2017-12-30,14.0,12.5,-1.5,-10.71,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238010018,robi,2017-12-25,2017-12-30,14.0,12.0,-2.0,-14.29,Good,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238010021,fatema,2017-11-30,2017-12-31,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238010023,jannat,2017-12-18,2017-12-30,10.0,10.0,0.0,0.0,Severe,Severe,Same Condition,High Risk,High Risk,Same Group,Stable
+916238020029,junaid,2017-12-26,2019-01-29,13.0,14.2,1.1999999999999993,9.23,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238020040,rahima,2018-02-27,2018-10-23,15.0,14.8,-0.1999999999999993,-1.33,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+916238020062,samima,2017-12-26,2018-03-27,12.2,13.0,0.8000000000000007,6.56,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238020071,Armin,2017-12-26,2018-05-29,14.1,13.0,-1.0999999999999996,-7.8,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238020074,marsifa,2018-03-27,2018-06-26,13.0,13.1,0.09999999999999964,0.77,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238020082,rabiya begom,2017-12-26,2018-03-27,13.1,12.0,-1.0999999999999996,-8.4,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238020093,kawsar ahmod,2017-12-26,2019-02-26,14.1,14.2,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238030003,chabni akthar,2017-12-23,2018-06-23,12.0,12.2,0.1999999999999993,1.67,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238030011,rifat hasan,2017-11-25,2018-10-27,12.0,13.2,1.1999999999999993,10.0,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238030023,Tanisha,2017-11-25,2018-10-27,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238030024,akibha,2017-12-23,2018-05-26,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238030035,munni akthar,2017-12-23,2018-01-26,14.1,14.0,-0.09999999999999964,-0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238030040,marufa,2016-08-14,2018-08-25,14.1,14.2,0.09999999999999964,0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238040012,Rayhan,2017-12-12,2018-01-11,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238040019,mahim husen,2017-12-12,2018-01-09,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238040080,nure akhter,2018-01-09,2018-06-26,12.0,13.0,1.0,8.33,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238040082,marof ahmod,2018-01-09,2018-06-26,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238040086,kulsuma,2018-01-09,2018-01-28,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238060008,abida akhter,2017-12-30,2018-01-13,8.0,13.0,5.0,62.5,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+916238060018,tamana begum,2017-12-30,2018-02-10,8.0,12.0,4.0,50.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+916238060031,junahid ahmod,2018-06-09,2018-10-30,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238060068,tanisa,2018-01-13,2018-07-16,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238060073,tuhin,2017-12-30,2018-01-13,8.0,12.0,4.0,50.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+916238060077,Toni akhter,2018-07-16,2018-10-30,15.0,13.0,-2.0,-13.33,Good,At Risk,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+916238060079,fayja,2017-12-30,2018-03-10,13.0,12.0,-1.0,-7.69,At Risk,Moderate,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238060093,mahim ahmod,2018-01-13,2018-01-30,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238060109,Abu caed,2018-01-13,2018-03-10,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238060131,junaed,2017-10-14,2018-01-13,13.0,13.0,0.0,0.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238080004,samia akter,2016-11-04,2018-05-05,13.6,14.6,1.0,7.35,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238080008,samia,2017-08-05,2017-12-02,12.3,13.6,1.299999999999999,10.57,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238080016,jami,2017-12-31,2018-01-09,8.0,12.4,4.4,55.0,Severe,Moderate,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+916238080025,sanjida begum,2016-11-04,2018-03-03,12.2,13.0,0.8000000000000007,6.56,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238080029,farm ahmad,2017-12-31,2018-10-06,8.0,14.8,6.800000000000001,85.0,Severe,Good,Condition Improved,High Risk,Healthy,Moved to Better Group,Improved
+916238080031,sima akter,2016-12-02,2018-09-01,12.3,12.4,0.09999999999999964,0.81,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238080032,Shifa begum,2016-11-04,2018-10-01,12.4,13.2,0.7999999999999989,6.45,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100005,maisa begum,2018-01-08,2018-02-06,13.0,14.5,1.5,11.54,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100009,faiza  akter,2018-01-08,2018-04-04,12.2,13.2,1.0,8.2,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100017,fayaz ahmad,2018-01-08,2018-07-03,12.1,13.2,1.0999999999999996,9.09,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100022,lucky begum,2018-04-04,2018-05-10,12.8,13.0,0.1999999999999993,1.56,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100023,rajib ahmad,2018-01-08,2018-10-02,12.2,13.2,1.0,8.2,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100028,amina begum,2017-10-03,2018-07-03,12.1,13.6,1.5,12.4,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100035,tasniya begum,2018-01-08,2018-10-02,12.32,13.7,1.379999999999999,11.2,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100050,hasnat ahmad,2018-01-08,2018-07-03,13.6,14.8,1.200000000000001,8.82,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238100063,mim akter,2017-10-03,2018-10-02,14.0,13.9,-0.09999999999999964,-0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238100068,ruman ahmad,2018-01-08,2018-10-02,13.0,13.8,0.8000000000000007,6.15,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100074,juli beginners,2018-01-08,2018-05-10,14.1,14.6,0.5,3.55,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238100075,samiya begum,2018-01-08,2018-10-02,12.4,13.2,0.7999999999999989,6.45,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110004,tanisa,2017-12-11,2018-08-20,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110005,habibur rhman,2017-12-11,2018-04-18,15.0,15.3,0.3000000000000007,2.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+916238110006,marjan Ahmed,2018-01-16,2018-10-16,13.5,13.6,0.09999999999999964,0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110007,tanha,2018-01-16,2018-08-20,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110008,busra,2018-01-16,2018-02-20,13.3,13.0,-0.3000000000000007,-2.26,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238110024,eymin,2017-12-30,2018-09-18,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238110041,kamran,2017-12-30,2018-05-22,13.75,14.0,0.25,1.82,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110042,tawhida,2018-01-16,2018-09-18,12.0,13.4,1.4000000000000004,11.67,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110043,samiya,2018-01-16,2018-02-20,14.6,14.7,0.09999999999999964,0.68,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238110049,jyni aktar,2018-01-16,2018-08-20,12.0,12.2,0.1999999999999993,1.67,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110050,saim Ahmed,2017-12-30,2018-04-18,14.0,13.2,-0.8000000000000007,-5.71,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238110062,Sahriyan Ahmed,2018-01-16,2018-03-20,13.2,13.5,0.3000000000000007,2.27,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110064,mustakim Ahmed,2018-01-16,2018-07-17,15.2,14.6,-0.5999999999999996,-3.95,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+916238110076,a man husyn,2018-06-19,2018-10-16,12.9,13.2,0.29999999999999893,2.33,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110082,mim aktar,2018-01-16,2018-10-16,13.2,13.1,-0.09999999999999964,-0.76,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238110092,sanjida aktar,2018-01-16,2018-10-16,13.0,13.6,0.5999999999999996,4.62,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238110103,rifat ahmed,2018-01-16,2018-08-20,14.0,13.3,-0.6999999999999993,-5.0,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238110106,Abu said,2018-06-19,2018-10-16,12.9,13.2,0.29999999999999893,2.33,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238120006,tahmib,2017-12-30,2018-04-18,14.0,14.4,0.40000000000000036,2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238120009,Sadiya Begum,2017-12-30,2018-03-20,14.5,14.7,0.1999999999999993,1.38,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238120021,tawsiya begum,2017-12-30,2018-07-17,12.3,12.5,0.1999999999999993,1.63,Moderate,At Risk,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238120031,Rayhan Ahmed,2017-12-30,2018-01-16,14.0,14.3,0.3000000000000007,2.14,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238120036,habiba,2017-12-30,2018-05-22,12.5,13.6,1.0999999999999996,8.8,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238130003,tuha aktar,2018-01-13,2018-03-10,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238130004,najmin aktar,2018-01-13,2018-03-10,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238130037,rafi ahmed,2018-05-12,2018-06-09,13.2,13.4,0.20000000000000107,1.52,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238130050,musahid ali,2018-01-13,2018-06-09,13.5,15.1,1.5999999999999996,11.85,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238130062,munna ahead,2018-01-13,2018-05-12,15.5,12.2,-3.3000000000000007,-21.29,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+916238140087,Tasniya,2017-11-28,2018-08-28,12.5,14.0,1.5,12.0,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238140088,Fahija jannat Maisa,2017-12-26,2017-12-30,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238140105,Alman hussain,2017-12-26,2017-12-30,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238140108,Mahiya begum,2017-12-26,2018-03-27,10.0,14.0,4.0,40.0,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+916238140109,Eva akther,2017-12-26,2017-12-30,12.0,12.0,0.0,0.0,Moderate,Moderate,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238160048,All Imran,2018-01-09,2018-04-10,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238160107,Nuha jannat tarin,2018-01-09,2018-02-13,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238160128,Moustakin,2018-01-09,2018-05-15,13.0,14.0,1.0,7.69,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238160139,Moustakin,2018-01-09,2018-06-14,16.0,16.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+916238160151,Rifat,2018-01-09,2018-08-14,14.0,17.0,3.0,21.43,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238160166,Taniya begum,2018-01-09,2018-07-12,13.0,14.5,1.5,11.54,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+916238160172,Rakiba begum,2018-01-09,2018-05-15,15.0,15.0,0.0,0.0,Good,Good,Same Condition,Healthy,Healthy,Same Group,Stable
+916238170014,samiya jannat,2018-01-13,2018-03-10,13.5,13.7,0.1999999999999993,1.48,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238180003,Rubaba jannath,2017-12-11,2018-10-16,13.5,16.0,2.5,18.52,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238180014,Nusrat jannat,2017-12-30,2018-03-20,12.0,15.0,3.0,25.0,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238180019,sanjida,2017-12-11,2018-10-16,14.0,13.9,-0.09999999999999964,-0.71,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238180024,tasniay,2017-12-30,2018-09-18,14.0,13.1,-0.9000000000000004,-6.43,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+916238180031,samiay,2017-12-11,2018-10-16,14.0,14.6,0.5999999999999996,4.29,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+916238330011,masuma Begum,2018-01-09,2018-04-10,13.5,13.5,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238330016,minhaj ahmad,2018-01-09,2018-08-14,14.0,15.8,1.8000000000000007,12.86,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238330019,jisan ahmad,2018-01-09,2018-05-15,14.0,15.5,1.5,10.71,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+916238330025,ruman ahmad,2018-05-15,2018-07-12,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+916238330031,mahbuba begum,2018-01-09,2018-10-09,13.0,13.4,0.40000000000000036,3.08,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447010001,Mina,2017-12-18,2017-12-28,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447010002,hana,2017-12-27,2017-12-28,24.0,12.0,-12.0,-50.0,Good,Moderate,Condition Deteriorated,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+919447010005,Rina,2017-12-25,2017-12-27,12.0,11.0,-1.0,-8.33,Moderate,Severe,Condition Deteriorated,Moderate Risk,High Risk,Moved to Worse Group,Deteriorated
+919447010008,Sorna,2017-12-18,2017-12-27,8.0,14.5,6.5,81.25,Severe,Good,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+919447010009,Alpona,2017-12-26,2017-12-27,20.0,17.5,-2.5,-12.5,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+919447010010,Radi,2017-12-18,2017-12-28,12.1,25.0,12.9,106.61,Moderate,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+919447010011,manik,2017-12-25,2017-12-27,12.0,14.0,2.0,16.67,Moderate,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447030032,nadia akter,2017-12-05,2018-01-09,14.0,13.6,-0.40000000000000036,-2.86,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+919447030035,Tchnia akther,2017-12-05,2017-12-15,14.0,14.0,0.0,0.0,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Stable
+919447030049,Sadian Ahmed Rahim,2017-10-10,2018-02-06,14.5,13.2,-1.3000000000000007,-8.97,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+919447030063,Tabiya Akter Koli,2018-01-13,2018-02-10,14.02,14.2,0.17999999999999972,1.28,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447070039,Onik Biswas,2018-01-09,2018-06-05,15.5,15.6,0.09999999999999964,0.65,Good,Good,Same Condition,Healthy,Healthy,Same Group,Improved
+919447070059,Poli Rani,2018-01-09,2018-02-06,12.5,13.0,0.5,4.0,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447070068,Beuty Rani,2018-01-09,2018-06-05,13.5,13.6,0.09999999999999964,0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447070084,Suvosri Rani,2018-01-09,2018-05-08,12.9,13.1,0.1999999999999993,1.55,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447070085,Jugonto Biswas,2018-01-09,2018-04-03,13.9,13.0,-0.9000000000000004,-6.47,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+919447070090,Chompi Rani,2018-01-09,2018-02-06,13.0,13.5,0.5,3.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447070094,Pourovi Rani,2018-01-09,2018-06-05,13.0,13.2,0.1999999999999993,1.54,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447080002,sidratul muntaha mahi,2017-12-05,2018-10-02,13.5,13.6,0.09999999999999964,0.74,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447080004,saidatul jannat nila,2017-12-05,2018-02-06,12.6,13.5,0.9000000000000004,7.14,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447130006,Moni Akter,2018-01-09,2018-06-05,13.08,13.5,0.41999999999999993,3.21,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447130008,Tanjid Ahmed,2018-01-09,2019-03-05,14.03,14.7,0.6699999999999999,4.78,Good,Good,Same Condition,Moderate Risk,Healthy,Moved to Better Group,Improved
+919447130013,Marjan Ahmed,2017-12-05,2018-01-09,14.0,13.0,-1.0,-7.14,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+919447160017,Tuli Biswas,2018-01-06,2018-03-03,13.0,13.8,0.8000000000000007,6.15,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447160022,Jahidul Islam,2018-01-06,2018-03-03,15.5,15.0,-0.5,-3.23,Good,Good,Same Condition,Healthy,Healthy,Same Group,Deteriorated
+919447160024,Ibrahim Ahmad,2018-01-06,2018-03-03,15.5,14.4,-1.0999999999999996,-7.1,Good,Good,Same Condition,Healthy,Moderate Risk,Moved to Worse Group,Deteriorated
+919447170003,Tahmid Ahmed,2017-09-14,2018-07-10,13.02,13.2,0.17999999999999972,1.38,At Risk,At Risk,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
+919447170037,Montana Akter Munni,2017-12-12,2018-01-16,14.5,13.06,-1.4399999999999995,-9.93,Good,At Risk,Condition Deteriorated,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+919447170038,Anika Akter,2018-07-10,2019-02-12,13.2,15.5,2.3000000000000007,17.42,At Risk,Good,Condition Improved,Moderate Risk,Healthy,Moved to Better Group,Improved
+919447170039,Hamid Akter,2018-05-15,2018-07-10,14.5,13.7,-0.8000000000000007,-5.52,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Deteriorated
+919447170184,Safiyan Ahmed,2018-05-15,2019-01-15,13.2,14.5,1.3000000000000007,9.85,At Risk,Good,Condition Improved,Moderate Risk,Moderate Risk,Same Group,Improved
+919447170190,Nahidul Islam,2017-09-14,2018-04-10,10.0,13.1,3.0999999999999996,31.0,Severe,At Risk,Condition Improved,High Risk,Moderate Risk,Moved to Better Group,Improved
+919447170191,Maria Jannat,2018-05-15,2018-07-10,14.0,14.2,0.1999999999999993,1.43,Good,Good,Same Condition,Moderate Risk,Moderate Risk,Same Group,Improved
